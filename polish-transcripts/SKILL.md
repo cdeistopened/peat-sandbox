@@ -101,13 +101,18 @@ Match TOC entries to headers created during Step 2.
 **CRITICAL:** When raw text is awkward, garbled, or unclear, PRESERVE the awkwardness rather than reinterpreting. Use light grammar fixes only. If text is incomprehensible, flag it with [unclear] or [sic] rather than paraphrasing.
 
 ### What to ALWAYS Remove:
-- Pure radio mechanics: Call-in numbers, station IDs, frequency announcements (repeated)
-- Scheduling/logistical info: "You're invited to call in from 7:30 to 8:00 PM", air times, "the number is 707-923-3911"
-- Repeated invitations to call in or participate in live show format
-- Audio troubleshooting: "Can you hear me? Is that better?" (unless affects content)
-- Generic filler: Excessive "um, uh, you know, like" that impedes reading
-- Incomplete fragments: "So I was going to— well actually—" that don't complete a thought
-- Redundant acknowledgments: "Yeah, yeah, okay, yeah" when repeated
+
+**REMOVE THESE COMPLETELY - DO NOT INCLUDE IN POLISHED VERSION:**
+- **ALL call-in numbers** (707-923-3911, 1-800-XXX-XXXX, etc.) - NEVER include phone numbers
+- **ALL station IDs and frequencies** (KMUD 91.1 FM, KMUE Eureka, etc.) - remove repeated announcements
+- **ALL technical difficulties** ("Can you hear me?", "Is that better?", "You sound tinny", audio troubleshooting, microphone issues)
+- **ALL logistical/scheduling info** ("You're invited to call in from 7:30 to 8:00", "the show runs every third Friday", time announcements)
+- **ALL fundraising/pledge drive appeals** (donation requests, membership drives, support appeals)
+- **Repeated invitations** to call in or participate in live show format
+- **Generic filler** that impedes reading: Excessive "um, uh, you know, like"
+- **Incomplete fragments** that don't complete a thought: "So I was going to— well actually—"
+- **Redundant acknowledgments** when repeated: "Yeah, yeah, okay, yeah"
+- **Show opening/closing mechanics** unless they contain substantive introductions
 
 ### What to ALWAYS Keep:
 - ALL medical/technical information (100% fidelity to every fact, figure, mechanism)
@@ -138,9 +143,20 @@ Match TOC entries to headers created during Step 2.
 ### Speaker Formatting:
 ```markdown
 **[Full Name]:** [What they said]
+
+[Continue same speaker's next paragraph without repeating name]
+
+[Another paragraph from same speaker - still no name label]
+
+**[Different Speaker]:** [Their response]
 ```
+
+**CRITICAL RULES:**
 - Use actual names, not "[Speaker A]"
-- Don't repeat name if same speaker continues next paragraph
+- **NEVER have consecutive same-speaker labels** - if the same person speaks multiple times in a row, merge into ONE speaker block with paragraph breaks between their statements
+- Add paragraph breaks WITHIN a speaker's segment when they shift topics or take a breath
+- Long monologues (5+ sentences) should be broken into multiple paragraphs for readability
+- Only add speaker name when speaker actually changes
 - Use "Caller" or "Engineer" if name unknown
 
 ---
@@ -182,22 +198,51 @@ Match TOC entries to headers created during Step 2.
 **What Changed:** Speaker label, fixed capitalization
 **What Stayed:** Every fact, Ray's casual style
 
-### Example 3: Complex Biochemistry
+### Example 3: Long Monologue with Paragraph Breaks
 
 **BEFORE:**
 ```
-[Speaker B]: Yeah. And in the process of getting the ketogenic effect, basically it's starvation and stress that turns on the so called ketone production. But actually the so called ketone bodies, one of the major ketone bodies is actually not a ketone, but an alcohol hydroxyl group as a potential ketone.
+[Speaker B]: Yeah. And in the process of getting the ketogenic effect, basically it's starvation and stress that turns on the so called ketone production. But actually the so called ketone bodies, one of the major ketone bodies is actually not a ketone, but an alcohol hydroxyl group as a potential ketone. But in the hydroxyl state which is formed during the ketogenic diet, this becomes a reductant having effect similar to lactic acid, which is a trigger to shift oxidation towards the fermentation or the lactic acid metabolism typical of cancer. And once anything interferes with your ability to oxidize glucose fully, that liberates any stored fatty acids you have in your tissues. And everyone has an abundance of fat mixed right into their functioning tissues.
 ```
 
 **AFTER:**
 ```markdown
-**Dr. Raymond Peat:** Yeah. In the process of getting the ketogenic effect, basically it's starvation and stress that turns on so-called ketone production. But actually, one of the major ketone bodies is not a ketone, but an alcohol with a hydroxyl group as a potential ketone.
+**Dr. Raymond Peat:** Yeah. In the process of getting the ketogenic effect, basically it's starvation and stress that turns on so-called ketone production. But actually, one of the major ketone bodies is not a ketone, but an alcohol with a hydroxyl group as a potential ketone. In the hydroxyl state which is formed during the ketogenic diet, this becomes a reductant having an effect similar to lactic acid, which is a trigger to shift oxidation towards fermentation or the lactic acid metabolism typical of cancer.
+
+And once anything interferes with your ability to oxidize glucose fully, that liberates any stored fatty acids you have in your tissues. Everyone has an abundance of fat mixed right into their functioning tissues.
 ```
 
-**What Changed:** Light punctuation fixes ("so called" → "so-called")
-**What Stayed:** Complete technical explanation, Ray's teaching style
+**What Changed:**
+- Light punctuation fixes ("so called" → "so-called")
+- **Added paragraph break when topic shifts from ketone bodies to glucose oxidation**
+- Broke long monologue into readable chunks
 
-### Example 4: Call-In Segment
+**What Stayed:** Complete technical explanation, Ray's teaching style, 100% content fidelity
+
+### Example 4: NEVER Consecutive Same-Speaker Labels
+
+**BEFORE:**
+```
+[Speaker C]: I wanted to question you about the lymphatics. I know in breast cancer, lymph nodes become congested. They pick up cancer cells.
+[Speaker B]: For.
+[Speaker C]: But I wanted to get to the point of the interstitium. What do you understand about this ground substance?
+```
+
+**AFTER:**
+```markdown
+**Andrew Murray:** I wanted to question you about the lymphatics. I know in breast cancer, lymph nodes become congested. They pick up cancer cells.
+
+But I wanted to get to the point of the interstitium. What do you understand about this ground substance?
+```
+
+**What Changed:**
+- **Merged two Andrew Murray segments into ONE speaker block with paragraph break**
+- Removed "[Speaker B]: For." (meaningless audio artifact)
+- NO consecutive same-speaker labels
+
+**What Stayed:** Complete question flow, natural paragraph break
+
+### Example 5: Call-In Segment with Removals
 
 **BEFORE:**
 ```
@@ -213,8 +258,8 @@ Match TOC entries to headers created during Step 2.
 **Michael (Engineer):** It was a local person with a bad connection, but they wanted to know what you thought of flax oil and avocados.
 ```
 
-**What Removed:** "Okay, we're good, let's hold that there" (logistical)
-**What Kept:** Call-in interaction, engineer relay, question
+**What Removed:** "Okay, we're good, let's hold that there" (logistical coordination)
+**What Kept:** Call-in interaction, engineer relay, actual question
 
 ---
 
