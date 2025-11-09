@@ -112,3 +112,34 @@ And then I know you're not into pre-diabetes treating drugs, but metformin. Do y
 
 **Dr. Raymond Peat:** Yeah, inflammation is involved in all of the degenerative processes. And so the anti-inflammatory, anti-mTOR things are turning out to be protective against obesity, Alzheimer's, rheumatoid arthritis, lupus—anything you can think of turns out to involve inflammation at its root.
 
+## Caller Questions: Turmeric Extraction and Medicinal Use
+
+tags: [[turmeric]] [[herbal extraction]] [[culinary medicine]] [[heavy metals]] [[bioavailability]]
+
+**Andrew Murray:** Okay, let me give out the number. We do have a caller. If people would like to call in, it's 707-923-3911. Dr. Raymond Peat with us. So caller, you're on the air. Where are you from? What's your question?
+
+**Caller Margaret (Garberville):** Hello, Andrew and Sarah, this is Margaret and Dr. Pete. I'm grateful for your show. So I'm from Garberville and your mention of turmeric caught me because I use turmeric daily pretty much. But I know that there's a tendency in our society to find something like turmeric or other extractives from other herbs and things, and it's like, oh, this is so great. I'm going to put it in capsules and take, you know, like 5 milligrams of it every day. And I was wondering if you would address whether that's really beneficial or if it's beneficial enough to take it in your ordinary diet, you know, just as it comes kind of. Do we have to really sock it to our bodies with all of these extracts and pills and things? You know, is that clear the question?
+
+**Andrew Murray:** I think some of this comes from studying populations in countries that use it in their cuisine. So whether the Indian subcontinent or the Asian subcontinent, where they use a lot of turmeric and ginger and these other substances—I think they have fairly low incidences of colorectal cancer, and I think they've kind of put the two and two together. When they've looked at turmeric and its anti-inflammatory activity, they've posited that as a potential mechanism by which they have fairly low incidences.
+
+**Dr. Raymond Peat:** I think you can overeat on the so-called protective things. Same with vitamin C. Instead of being antioxidant, it becomes pro-oxidant when it begins producing excess electrons themselves.
+
+**Sarah Johanneson Murray:** More in a culinary fashion. Yeah, so we're eating our medicine instead of taking capsules. And remember too is a lot of traditional cultures make teas out of these things. They're not just swallowing tablespoons of turmeric root. They're putting some in their cooking, and if they're going to make it into a medicine, they make it into a tea, which helps extract the medicinal constituents like a tincture does, without having to have all the extra fiber and potential extra heavy metals that are in herbs that don't get extracted in the tea and the tincture like they would in the root of turmeric.
+
+**Andrew Murray:** That's a very good point because having looked at these botanicals and put them through ICP-MS to see what levels of California's heavy metals—arsenic, cadmium, lead, and mercury—are within these herbs as part of a GMP process to produce these extracts and sell them, I know from data that the raw plant root contains very high levels in some cases of those compounds, and the extracts contain virtually none. And so the extract process is very clean compared to the root of the actual herb if you were going to consume it in powder or capsule form.
+
+We've done shows on this with fish in the ocean and shown how much arsenic, cadmium, lead, and mercury is in them. The same goes for any plant material that you would ingest in powder or capsule form. We're not at all in agreement with capsules and powders over extracts, because extracts do not bring out the heavy metal content of the raw material.
+
+## Caller Questions: Sugar Types and Cancer Metabolism
+
+tags: [[glucose]] [[sugar types]] [[honey]] [[fructose]] [[cancer metabolism]] [[cortisol]]
+
+**Caller Margie (Pepperwood):** Hi, my name is Margie and I would like a clarification. When Dr. Peat says sugar, does that mean just fructose or honey? Natural sugars. And I can take my answer off the air.
+
+**Andrew Murray:** You kind of read my mind there. I was going to ask the same question, because I think Dr. Pete would say to get it from honey and to get it from sugar. But yeah, Dr. Pete, it's also good to get it from carbohydrates or do you want to get it from sugar or honey? Because I think carbohydrates are also important.
+
+**Dr. Raymond Peat:** Coming from starch or other more complex healthy starches, carbohydrates. But the problem is some of those, like sweet potatoes, are such mixtures. They have woody material and fats and indigestible things mixed in with the otherwise useful carbohydrates. So you can't just say that any starch is going to be equivalent to glucose or sucrose or honey. It depends on whether it's digestible.
+
+**Sarah Johanneson Murray:** Well, I think I want to go back to the sugar issue and the cancer issue that you touched on earlier. Every cell in the body needs glucose to operate. So if you don't eat any kind of sugar, your body's going to turn on a harmful metabolism to make sugar. And that is involving lactic acid. Correct, Dr. Pete?
+
+**Dr. Raymond Peat:** And high cortisol. Cortisol is necessary to mobilize and break down the protein to make amino acids and glucose, which also promotes cancer.
