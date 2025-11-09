@@ -8,6 +8,23 @@ speakers:
   - Dr. Raymond Peat
 ---
 
+## Table of Contents
+
+Line 28 - [[#Introduction & Welcome|Introduction & Welcome]]
+Line 47 - [[#Insurance Mortality Data & Working-Age Deaths|Insurance Mortality Data & Working-Age Deaths]]
+Line 70 - [[#Omicron Variant: Gene Sequences & Origin|Omicron Variant: Gene Sequences & Origin]]
+Line 87 - [[#Ukraine, Monsanto & Agricultural Control|Ukraine, Monsanto & Agricultural Control]]
+Line 108 - [[#Fertilizer Shortage & Supply Chain Control|Fertilizer Shortage & Supply Chain Control]]
+Line 123 - [[#Censorship, Information Control & Free Speech|Censorship, Information Control & Free Speech]]
+Line 134 - [[#Baby Formula Crisis: Dangers of Soy & PUFA|Baby Formula Crisis: Dangers of Soy & PUFA]]
+Line 157 - [[#Caller: Menopause Support & Natural Remedies|Caller: Menopause Support & Natural Remedies]]
+Line 168 - [[#Fresh Milk vs Synthetic Breast Milk|Fresh Milk vs Synthetic Breast Milk]]
+Line 183 - [[#Artificial Meat & Separation from the Natural World|Artificial Meat & Separation from the Natural World]]
+Line 196 - [[#Seed Saving, Food Sovereignty & Local Gardens|Seed Saving, Food Sovereignty & Local Gardens]]
+Line 205 - [[#Hope, Cosmic Redemption & Resistance|Hope, Cosmic Redemption & Resistance]]
+Line 220 - [[#Closing Remarks & Show Information|Closing Remarks & Show Information]]
+Line 227 - [[#Show Information & Resources|Show Information & Resources]]
+
 ## Introduction & Welcome
 tags: [[intro]] [[welcome]] [[show-overview]] [[june-2022]]
 
@@ -206,3 +223,14 @@ tags: [[closing]] [[technocracy]] [[resistance]] [[war-crimes]]
 I just wanted to finish by saying there's an undeniable connection between technocracy and dehumanization through lockdowns and social isolation. Through government coercive measures and Soviet-era style social control—where individuals are set against individuals, similar to the brownshirts of Nazi Germany—we're now in an Orwellian reality that, unless it's resisted, will become the de facto new normal. It must be resisted vehemently through peaceful protests and political involvement on the state and local level.
 
 We need another Hague in charges of international war crimes against humanity where the guilty are charged. That's why Reiner Formik's group in Germany is pressing these charges at this very moment. The thing is ongoing. I like to think that there is real justice and that we're not going to be sucked into the matrix—that we will find a way through it.
+
+## Show Information & Resources
+tags: [[show-info]] [[western-botanical-medicine]] [[raypeat]] [[archive]]
+
+For those of you who've listened to the show, Ask the Herb Doctor runs every third Friday of the month from 7 to 8 PM on KMUD. We'll be back in July. We're coming up to the solstice now.
+
+We run a business called Western Botanical Medicine. Doctor Raymond Peat's website is raypeat.com. He has plenty of scientific reference articles that are not his opinion, but are pulled from current medical journals, past medical journals, medical research, and trials.
+
+This information may not be something you'll find on your Facebook group or if you just Google it. Up until now, you probably won't find it, and some of it's going to be censored. We're probably moving into a more censored environment as we go on folks. So people just watch out.
+
+Anyway, without being alarmist about it, my name is Andrew Murray and we'll talk to you again in July. My name is Sarah Johanneson Murray. Thank you for listening.
