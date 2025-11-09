@@ -8,186 +8,194 @@ speakers:
   - Dr. Raymond Peat
 ---
 
+## Table of Contents
+
+Line 13 - [[#Introduction|Introduction]]
+Line 24 - [[#Dr. Ray Peat's Background|Dr. Ray Peat's Background]]
+Line 40 - [[#Herbal Perspectives on Estrogen Modulation|Herbal Perspectives on Estrogen Modulation]]
+Line 56 - [[#MSG and Excitotoxicity Overview|MSG and Excitotoxicity Overview]]
+Line 99 - [[#Aspartame and Brain Cancer|Aspartame and Brain Cancer]]
+Line 123 - [[#The Excitotoxic Mechanism: Cellular Energy Crisis|The Excitotoxic Mechanism: Cellular Energy Crisis]]
+Line 141 - [[#Protein Metabolism and Excitotoxic Amino Acids|Protein Metabolism and Excitotoxic Amino Acids]]
+Line 176 - [[#MSG in Hidden Sources|MSG in Hidden Sources]]
+Line 195 - [[#Protective Compounds Against MSG Neurotoxicity|Protective Compounds Against MSG Neurotoxicity]]
+Line 216 - [[#Caller Questions|Caller Questions]]
+Line 224 - [[#Understanding Inflammation and Aging|Understanding Inflammation and Aging]]
+Line 244 - [[#Healing Time and Estrogen Reduction|Healing Time and Estrogen Reduction]]
+Line 270 - [[#Pediatric Intestinal Bleeding and GI Health|Pediatric Intestinal Bleeding and GI Health]]
+
 ## Introduction
 
 Welcome to the January 21, 2022 edition of Ask the Herb Doctor on KMUD Garberville 91.1 FM, broadcasting from the Redwood coast of California. We're covering this month's subjects: MSG and cancer, continuation of estrogen and its progressively destructive effects, the induction of autoimmunity and cancer, and the link between COVID and MSG through their negative effects on the immune system.
 
-[[MSG]] [[estrogen]] [[excitotoxicity]] [[cancer]] [[immune system]]
+**Andrew Murray:** Thank you, good evening and welcome to January 21, 2022's edition of Ask your Herb Doctor. My name is Andrew Murray.
 
----
+**Sarah Johanneson Murray:** My name is Sarah Johanneson Murray. Welcome to our show.
+
+**Andrew Murray:** You're listening to KMUD Garberville 91.1 FM here from the Redwood coast of California, broadcasting nationwide and internationally. You're invited to call in with questions related to this month's subject of MSG and cancer and the continuation of estrogen and its progressively destructive effects and induction of autoimmunity and cancer. The number is 707-933-911. So from 7:30 until the end of the show, please call with any questions. Okay, so Dr. Pete, are you with us?
 
 ## Dr. Ray Peat's Background
 
-**Andrew Murray:** Let me introduce our guest Dr. Ray Peat, and tell our audience about your expertise.
+tags: [[credentials]] [[biography]] [[reproductive physiology]] [[aging research]]
 
-**Dr. Peat:** I was initially a student of humanities, teaching painting and English literature. I became interested in language and how the brain accomplishes this feat, so I pursued graduate school in biology to study the brain. In 1968, I went to the University of Oregon and found the nerve biology section extremely dogmatic—they cared more about their theories than experimental evidence. However, the aging research and reproductive physiology labs were genuinely interested in understanding what was actually happening. I completed my dissertation in 1972 on age-related oxidative changes in the hamster uterus. This research revealed an enormous amount of information relevant to brain function, aging, and the principles that allow organisms to redesign cells and begin new life from a single fertilized ovum. These same principles apply to understanding brain function in relation to behavior and language. I've been working on these subjects ever since.
+**Andrew Murray:** Thanks so much for joining us again as usual. Let me make sure you are fully introduced to the audience. Tell them about your background and expertise.
 
-[[aging]] [[reproductive physiology]] [[oxidative stress]] [[cellular regeneration]]
+**Dr. Raymond Peat:** I had been a student of the humanities, teaching painting and English literature and various humanities subjects. I got interested in language and how the brain can accomplish such a thing as use language. I decided that the only way to make progress was to go to graduate school in biology and study the brain. In 1968 I went back to the University of Oregon and quickly found that the nerve biology section of the department was very dogmatic and cared more about their theories than the actual experimental evidence. I decided to do my dissertation on age-related oxidative changes in the hamster uterus, which I finished in 1972. That had a huge amount of information relative to brain function and thoroughly understanding what's going on in aging changes and how the organism redesigns cells. I've been working on those subjects ever since.
 
----
+**Andrew Murray:** From a social perspective, I really appreciate your interweaving your artistic nature with a fluid understanding. You have a very fluid, plastic way of looking at things, and I know it's brought a very wide spotlight on a lot of subjects that we've covered. The archives that we've recorded with you probably for the last 14 years nearly now are going to be a living testimony to what's already been confirmed, though reluctantly by some industries.
 
 ## Herbal Perspectives on Estrogen Modulation
 
-**Andrew Murray:** Before we dive into MSG, I want to share several herbal remedies that have been shown to modulate estrogen and its effects.
+tags: [[estrogen]] [[herbal medicine]] [[bitter melon]] [[artemisinin]] [[tamoxifen]]
 
-The first is Momordica charantia, or bitter melon—a cucurbitaceous vine-bearing plant with estrogen-modulating properties. It also functions as an anti-diabetic plant, helping regulate blood glucose.
+**Andrew Murray:** Before we get into the topic of MSG, I wanted to cover a couple of things from an herbal perspective surrounding estrogen and aromatase that I want to share with people. Last month I mentioned Momordica charantia, which is bitter melon, a cucurbitaceous vine bearing plant that has been used to block estrogen and has estrogen modulating properties. It's also an anti-diabetic plant that works with regulating blood glucose.
 
-Second is artemisinin, a component of wormwood (Artemisia annua), which contains antiparasitic, antimicrobial, and antiviral properties. Research has shown it reduces estrogen receptor function in breast cancer cell lines.
+I also wanted to mention artemisinin, a component of wormwood, Artemisia annua, which contains antiparasitic, antimicrobial, and antiviral effects, but has also been shown to reduce the estrogen receptive function in breast cancer cell lines.
 
-Additionally, tamoxifen shows potential utility in treating immune-mediated disorders arising from aberrant helper T cell activity, including allograft rejection and Crohn's disease. The shift away from cellular immunity represents a significant step in fostering a cancerogenic environment, which may limit tamoxifen's anti-cancer effects and explain why it's inferior to other anti-estrogens for preventing disease recurrence in early-stage breast tumors.
+Additionally, tamoxifen may be useful in the treatment of immune mediated disorders, particularly those arising from aberrant helper T cell activity including allograft rejection, and has been used with some success in Crohn's. The induced shift away from cellular immunity represents a significant step in fostering a cancerogenic environment, which may limit the anti-cancer effects of tamoxifen and explain why tamoxifen is inferior compared to other anti-estrogens for preventing disease recurrence in early breast tumors.
 
-[[bitter melon]] [[artemisinin]] [[wormwood]] [[tamoxifen]] [[estrogen receptors]]
+## MSG and Excitotoxicity Overview
 
----
+tags: [[MSG]] [[glutamate]] [[excitotoxicity]] [[FDA]] [[food additives]]
 
-## MSG and Excitotoxicity: An Overview
+Monosodium glutamate is one of the most abundantly found amino acids in nature and is present in a heterogeneous group of foods as a flavor enhancer. It's issued as a food additive known as E621 in the form of hydrolyzed protein or as a purified monosodium salt.
 
-Monosodium glutamate (MSG) is one of the most abundantly found amino acids in nature. The FDA considers it safe to add to food, where it functions as a flavor enhancer and is designated as food additive E621. It appears in foods as hydrolyzed protein or as a purified monosodium salt.
+Very early on they were demonstrating the benefits of monosodium glutamate as responsible for increasing temperature, decreasing body mass, and decreasing production of fat tissues. However, this was primarily a sales ploy.
 
-Historically, MSG was promoted as responsible for increasing temperature, decreasing body mass, and reducing fat tissue production. However, this was primarily a sales ploy to promote the flavoring substance.
+**Andrew Murray:** Early on, MSG was supposedly going to increase your metabolism and burn fat. But you've been looking at monosodium glutamate and its excitotoxic effects. Can you explain this?
 
-**Dr. Peat:** In the 1970s, researcher J.W. Olney demonstrated that when rats were fed amounts exceeding normal dietary intake, the brain sustained damage resulting in lifelong obesity. The destroyed appetite-regulating brain tissue left appetite out of control while the metabolic rate proved insufficient to maintain weight. Over several years, Olney conducted numerous experiments showing that similar molecules—aspartic acid, aspartame, and variations—produced excitatory effects through the glutamate or aspartate receptor. One positive-seeming effect was increased alertness, but this came at the expense of insufficient energy production to meet the high energy consumption caused by the excitatory action.
+**Dr. Raymond Peat:** I think the weight loss thing was just a sales ploy to sell the flavoring substance. In the 1970s, J.W. Olney found that when rats were fed just a little more than the amount that a person could normally eat in various artificial foods or added as flavoring, the brain was damaged in a certain way that led to lifelong obesity. The destruction of enough of the brain caused appetite to remain out of control and the metabolic rate wasn't sufficient to keep weight steady.
 
-[[MSG]] [[excitotoxicity]] [[glutamate]] [[aspartate]] [[brain damage]] [[obesity]]
+Over a period of several years, he did many experiments, including showing that the same sort of molecule—aspartic acid, aspartame, or variations—but as long as it was acting through the glutamate receptor or the aspartate receptor, it had this range of excitatory effects. One positive thing was that it made you seem more alert, but that alertness came at the expense of not having enough energy produced to meet the high energy consumption caused by the excitatory action of the aspartate or glutamate.
 
----
+**Sarah Johanneson Murray:** Isn't aspartame also like a fake sugar, like Splenda?
+
+**Michael:** Yeah, Aspartame is aspartic acid with methanol and it degrades into methanol and leaves methanol in your neurons.
+
+**Dr. Raymond Peat:** Aspartame is super sweet material, sweeter than saccharin, but the amount that is toxic is very small. Olney, among others in the late 70s was showing that the sudden appearance of a rising incidence of gliomas—malignant glial cell tumors, brain cancer—followed by a few years the introduction of foods that were loaded with everything from aspartame to MSG.
 
 ## Aspartame and Brain Cancer
 
-**Sarah Johanneson Murray:** Isn't aspartame the fake sugar, like Splenda?
+tags: [[aspartame]] [[glioma]] [[brain cancer]] [[cell phones]] [[excitotoxicity]]
 
-**Michael:** Aspartame is aspartic acid with methanol, which degrades into methanol that accumulates in your neurons.
+**Dr. Raymond Peat:** Cell phones have corresponded—if a person habitually holds their cell phone to the right ear, the incidence of brain tumors on the right of a particular kind has increased sharply since the use of cell phones. It happens that they are both causes of excitotoxicity. The electromagnetic field excites the cells and you need to provide energy to keep up with that or the cell dies.
 
-**Dr. Peat:** Aspartame is a supersweet material, sweeter than saccharin, but the toxic amount is very small. Researchers have demonstrated it can cause brain cancer. In the late 1970s, Olney and others showed a sudden rising incidence of gliomas—malignant glial cell tumors, or brain cancer. He demonstrated these could be caused by overfeeding glutamate or MSG to animals. The rise in population incidence and mortality from these tumors followed by a few years the introduction of foods loaded with aspartame and MSG. Animal research shows no growing incidence of brain cancer when these compounds are absent.
+Ongoing experiments show that when cells are endangered by such things as MSG or aspartame, if you intervene by giving them a super amount of sugar—glucose or other sugar—will save the neurons simply by feeding whatever is needed to keep up with the high level of excitation.
 
-Both MSG/aspartame and cell phones cause excitotoxicity. Cell phone radiation excites cells, requiring energy to compensate or the cell dies. When cells are endangered by MSG or aspartame, high-dose glucose interventions can save neurons by providing the energy needed to meet excitation demands.
+The excitotoxic conflict between unavoidable stimulation of excitation combined with something interfering with the oxidation of glucose applies to epilepsy, for example. If the cells aren't able to keep up their energy production and use with the excitation, the seizure gets out of control and damages the tissue.
 
-[[aspartame]] [[glioma]] [[brain cancer]] [[excitotoxic damage]] [[glucose metabolism]]
-
----
+Any cell that can be exaggeratedly stimulated can be rescued if you keep the sugar supply up. But if it isn't kept up, then that cell can become cancerous, can form brain tumors, or can just die, leading to dementia or various types of brain function loss.
 
 ## The Excitotoxic Mechanism: Cellular Energy Crisis
 
-The fundamental conflict occurs between unavoidable stimulation of excitation and interference with glucose oxidation. This mechanism isn't limited to aging and gliomas—it applies broadly to neurological conditions like epilepsy. When cells cannot generate sufficient energy to match excitation levels, seizures become uncontrollable and damage tissue. Any cell capable of exaggerated stimulation can be rescued through adequate sugar supply, but without it, the cell may become cancerous, form tumors, or die, leading to dementia or various brain function losses depending on affected cell types.
+tags: [[cellular energy]] [[excitotoxicity]] [[glucose]] [[carbon dioxide]] [[lactic acid]]
 
-Overlapping influences compound the problem: cell phone radiation, aspartame, MSG, stress, vibration, overstimulation, glucose deprivation, and oxygen deprivation all produce excitatory effects.
+**Andrew Murray:** This is like a kind of wasteful entropy. There's a lack of input of the energy needed to keep the cell going.
 
-Energy feeding through sugar has a sedative action, reducing harmful excitation. Conversely, when cells perceive insufficient energy, they activate emergency responses including serotonin production (leading to hibernation-like states), histamine formation (opening blood vessels to increase blood delivery), estrogen activation, nitric oxide formation (vasodilation), and heme oxygenase activation (breaking down heme for antioxidant benefit, producing bilirubin and carbon monoxide).
+**Dr. Raymond Peat:** Yeah, and it's made worse by overlapping influences. It isn't just cell phone radiation and aspartame and MSG, but many different things all have that same function. Any stress—vibration, laser overstimulation, telephone overstimulation, or even simply glucose deprivation or oxygen deprivation—they all turn out to be excitatory.
 
-[[cellular energy]] [[excitotoxicity]] [[glucose metabolism]] [[calcium regulation]] [[inflammatory cascades]]
+The feeding of energy in the form of sugar has a sedative action that leads to turning down the degree of excitation and the harmful influence damage to the cell. When the cell perceives that it is not getting enough energy to meet the needs, one alternative is to try to go into hibernation to turn off its own needs for energy. Another universal basic type of reaction is the formation of histamine. When a cell is in desperate dying conditions, it forms and secretes histamine into its environment because the histamine will open up any closed blood vessels and get more blood delivered.
 
----
+Estrogen is another of these short-term emergency things. Estrogen can activate the serotonin system and cool off the whole energy consuming apparatus. It can activate the histamine system and activates nitric oxide formation that opens up the blood vessels. It can activate heme oxygenase which breaks down heme. In the desperate condition, breaking down the heme will provide some antioxidant function, producing bilirubin and carbon monoxide. The carbon monoxide can serve as an antioxidant, moving the system into a torpor or hibernation.
 
 ## Protein Metabolism and Excitotoxic Amino Acids
 
-**Michael:** How can the body benefit from a high-protein diet when glutamate triggers excitotoxicity and many protein sources are MSG sources?
+tags: [[protein]] [[amino acids]] [[glutamate]] [[methionine]] [[dietary recommendations]]
 
-**Andrew:** Hydrolyzed protein, whey, and soy protein are major MSG sources.
+**Michael (Caller):** My understanding is that the glutamate or the accent flavor is stimulating the umami flavor and a lot of high protein and other nutritious foods stimulate that too. How is it that the body is able to be benefited by eating like a nice high protein diet?
 
-**Dr. Peat:** In nature, protein is a rare delicacy for most animals, creating a strong survival urge to consume it for building muscle and making new tissue. However, when societies provide abundant cheap protein, people abandon appetite-guided eating and consume protein from habit and advertising rather than genuine need.
+**Andrew Murray:** Yes, the hydrolyzed protein and the whey, the soy protein and a lot of those products are totally big sources of MSG. Dr. Pete, how about the flavoring side of MSG and its natural presence in the diet?
 
-People tend to overeat protein after age 20 when growth slows. They continue consuming the amounts they ate as 15-year-olds. While growing and actively consuming, the glutamate signaling proves beneficial—triggering anabolic states that utilize amino acids to build muscle, brain tissue, and renew tissues. However, once size stabilization occurs, continued excessive protein consumption creates surplus beyond needs: excess histidine, tryptophan, methionine, cysteine, aspartate, and glutamate—all potentially excitotoxic amino acids.
+**Dr. Raymond Peat:** In the natural state, protein is a rare delicacy for most animals. The urge to eat some protein is a definite survival urge. But when society provides lots and lots of cheap protein, people get in the habit of not being guided by their appetite and cravings, but just eating it because it's there and even because it's considered the most valuable food. People tend to overeat on protein after they're around the age of 20 or so.
 
-As metabolic rate steadily declines from puberty onward (declining quickly immediately post-puberty, then declining annually), energy-producing capacity and tissue synthesis ability decrease. The older a person becomes, the more careful they must be about excess excitotoxic amino acids.
+As long as you're growing and consuming, you respond to the signal action of the glutamate. But once your size is established, if you keep eating that same amount, you're going to have a lot of excess beyond your needs—excess histidine, tryptophan, methionine, cysteine, aspartate, glutamate, all of these potentially excitotoxic amino acids.
 
-**Sarah:** When you recommend 75-100 grams daily protein and typically advise no more than two eggs daily, where should most protein come from?
+**Sarah Johanneson Murray:** When you recommend people consume 75 to 100 grams of protein a day, you're not recommending they consume that all in the form of muscle, meat or eggs. Most of your protein recommendations, you believe should be coming from dairy.
 
-**Dr. Peat:** After reaching your full size, follow your actual biological urges rather than advertising recommendations. As you age, heed reduced appetite signals. As an example, nutritionist Adele Davis noted that gelatin—an incomplete protein lacking amino acids necessary for growth—was sufficient for elderly women who lived for years on toast, jello, and tea diets. This illustrates how minimal protein an older person actually needs.
+**Dr. Raymond Peat:** Yeah. And after you're grown up in size, you should try to learn to go by your actual biological urges rather than what advertising tells you to eat. As your metabolic rate slows down and that happens steadily from puberty, it first slows down very quickly after puberty and then has a steady annual decline of ability to make new tissue and produce energy. So the older you are, the more careful you have to be about having an excess of the especially excitotoxic amino acids.
 
-[[protein metabolism]] [[amino acids]] [[excitotoxic amino acids]] [[age-related metabolism]] [[dietary protein recommendations]]
-
----
+Gelatin is considered an incomplete protein because animals and people can't grow if they aren't getting the amino acids lacking in gelatin. But many old women have lived for years on a diet of toast and jello and tea, practically their only protein being the gelatin, which is not a complete protein. This illustrates what a very tiny amount a very old person needs.
 
 ## MSG in Hidden Sources
 
-Foods high in glutamate that people may not recognize include hydrolyzed vegetable protein, autolyzed yeast, hydrolyzed yeast, yeast extracts, soy extracts, and protein isolates. These form large components of vegetarian and vegan diets as alternative protein sources, but contain substantial glutamate amounts.
+tags: [[MSG]] [[food labels]] [[yeast extract]] [[glutamate sources]]
 
-Many bouillons, even organic ones labeled "organic vegetable bouillon" or "organic chicken bouillon," contain yeast extract that produces MSG-like burning sensations on the tongue.
+**Andrew Murray:** Let me just quickly outline the typical foods that people will probably be aware or unaware of that are glutamate rich. Hydrolyzed vegetable protein is very high in glutamate, autolyzed yeast, hydrolyzed yeast, yeast extracts, soy extracts, and protein isolate—all very high in glutamate. These form a fairly large part of a vegetarian or vegan diet as an alternative protein source, but they do contain a lot of glutamate.
 
-**Sarah:** Can MSG be in products without listing it as an additive?
+**Sarah Johanneson Murray:** Yeah, a lot of bouillons, I notice, even if they're organic and they say organic vegetable bouillon or organic chicken bouillon or beef bouillon, they have a yeast extract. And I notice if I use that or eat that, I feel like I've had an MSG burn on my tongue.
 
-**Dr. Peat:** I believe it must be listed legally. They use alternatives like calling it "vegetable broth" when it's really MSG extracted from soybean.
+**Sarah Johanneson Murray:** I wonder if it's allowed to be in products without being listed as an additive.
 
-**Sarah:** What about tamari, the wheat-free fermented soy sauce? Doesn't fermented soy protein form natural MSG?
+**Dr. Raymond Peat:** I think legally it has to be listed. They have some alternatives like calling it a vegetable broth or something when it's really an MSG extracted from soybean.
 
-**Dr. Peat:** Yes.
+**Sarah Johanneson Murray:** What about tamari, the wheat-free fermented soy sauce? Doesn't that form like a natural MSG as well?
 
-**Sarah:** Should it be limited in the diet?
+**Dr. Raymond Peat:** Yeah. I think so.
 
-**Dr. Peat:** I think so.
-
-[[glutamate sources]] [[yeast extract]] [[hydrolyzed proteins]] [[fermented foods]] [[food labeling]]
-
----
+**Andrew Murray:** I saw an article that curcumin from turmeric protects against monosodium glutamate neurotoxicity and decreases NMDA2B. That's another good plus point for turmeric and its anti-inflammatory activity. There are lots of flavonoids like quercetin and myricetin in coffee, which has lots of tissue protective, anti-cancer, anti-dementia effects that are largely the effect of the flavonoid components.
 
 ## Protective Compounds Against MSG Neurotoxicity
 
-Curcumin from turmeric protects against MSG neurotoxicity by decreasing NMDA2B (N-methyl-D-aspartate receptor 2B) expression in the rat hippocampus, providing another compelling benefit of turmeric's anti-inflammatory activity.
+tags: [[curcumin]] [[turmeric]] [[flavonoids]] [[coffee]] [[neuroprotection]] [[hippocampus]]
 
-Flavonoids like quercetin and myricetin found in coffee provide tissue protection, anti-cancer, and anti-dementia effects largely through their flavonoid components.
+**Andrew Murray:** Another article mentioned the vital role of the hippocampus in memory formation and regulation of behavior, showing that glutamate was involved in increasing the levels of pro-inflammatory cytokines, including tumor necrosis factor-alpha, which contributes to the brain damage and the death of neurons.
 
-Glutamate increases pro-inflammatory cytokine levels, including tumor necrosis factor-alpha, contributing to brain damage and neuronal death, revealing the mechanism by which excitotoxicity damages the brain and hippocampus—vital for memory formation and behavior regulation.
+**Dr. Raymond Peat:** There has been a lot of study of how the excitotoxic things like glutamate actually work. The cells were being protected by high glucose addition without changing the concentration of aspartate or glutamate inside the cell. What was happening was that normally the process of responding to the excitotoxin means that the cell is taking up and retaining the excitatory molecule calcium. When the cell retains too much, it goes into the excited, inflamed, energy-wasting state.
 
-The mechanism of glucose protection operates differently than initially assumed. Rather than reducing excitotoxic agent uptake, high glucose addition protects cells without changing intracellular aspartate or glutamate concentration. Instead, glucose enables cells to extrude more calcium during metabolism.
-
-Calcium is the excitatory molecule cells must normally exclude. When cells retain excessive calcium, they enter excited, inflamed, energy-wasting states. Additional glucose allows cells to extrude more calcium through its continued metabolism. The mechanism appears to involve glucose promoting increased carbon dioxide formation during metabolism. Carbon dioxide forms carbonic acid, which leaves the cell carrying the counter-ion of doubly-charged calcium along with sodium. This glucose carbonic acid efflux manages the calcium accumulation—the basic cause of inflammation, pain, and cell death.
-
-[[curcumin]] [[turmeric]] [[flavonoids]] [[coffee]] [[neuroprotection]] [[calcium regulation]] [[glucose mechanism]]
-
----
+The addition of extra glucose allowed the cell to extrude more calcium as it continued to metabolize. The calcium was being pushed out of the cell under the influence of the glucose. The mechanism involves glucose promoting the increase of carbon dioxide formation as it's metabolized. The carbon dioxide forming the carbonic acid leaves the cell and takes with it the counter ion, the doubly positively charged calcium and some sodium. So the flow of glucose carbonic acid out of the cell is taking care of the calcium accumulation, which is the basic cause of the inflammation, pain and cell death.
 
 ## Caller Questions
 
 ## Understanding Inflammation and Aging
 
-**Caller (Avenue of the Giants):** Can you explain what inflammation means? Is it inflammation of the cells, inflammation around muscle tissue, or something related to arthritis and age-related aches and pains?
+tags: [[inflammation]] [[inflammaging]] [[carbon monoxide]] [[heme oxygenase]] [[aging]]
 
-**Dr. Peat:** People recently discuss "inflammaging" as if it explains something. Aging obviously involves increased inflammation in every sense. However, the key is understanding basic events in cell structure. Pain, excitation, inflammation, and aging all involve cytotoxic cell damage and inability to remedy the problem through adequate energy production or delivery.
+**Caller (Avenue of the Giants):** Can you explain the inflammation? What you mean—is it inflammation of the cells or inflammation around the muscle tissue and particularly around like arthritis and just the aches and pains of getting older?
 
-Heme oxygenation, an emergency enzyme producing carbon monoxide, has been described in 95% of publications as a protective antioxidant. Yet deteriorated aged brains contain more carbon monoxide than any previous life stage—carbon monoxide presence represents a degenerative aspect of inflammation and cell deterioration.
+**Andrew Murray:** Dr. Pete, would you want to briefly explain inflammation in terms of its physical process?
 
-If carbon monoxide formation is blocked (as with traumatic head or spinal cord wounds), most damage, edema development, and cell death are prevented. The chemistry of aging, inflammation, and deterioration expresses the same concept as excitotoxicity and wasteful energy processes.
+**Dr. Raymond Peat:** People in recent years have been talking about inflammaging as if that explains something. But the process of aging obviously involves increased inflammation. The problem is to see what the basic events are in cell structure. Pain, excitation, inflammation and aging all have these aspects of cytotoxic cell damage and the inability to remedy the problem by making enough energy or delivering enough energy.
 
-[[inflammation]] [[inflammaging]] [[carbon monoxide]] [[heme oxygenase]] [[aging]] [[cell damage]]
+Heme oxygenation, one of the emergency enzymes that produces carbon monoxide—there have been probably 95% of the publications describing carbon monoxide as an antioxidant, very protective. But if you look at the deteriorated brain in old age, there is more carbon monoxide in it than at any previous life stage. Carbon monoxide presence is a degenerative aspect of inflammation and cell deterioration.
 
----
+If you block the formation of carbon monoxide, you prevent most of the damage, development, edema and cell death. So the chemistry of aging, inflammation and deterioration—it's a complex of things that express the same idea as excitotoxicity and wasteful energy waste processes.
 
 ## Healing Time and Estrogen Reduction
 
-**Caller (South Central Los Angeles):** How long does the body take to heal from damage if you reduce estrogen, polyunsaturated fat, and inflammatory substances? Is there an age difference, or is healing time the same for everyone?
+tags: [[healing time]] [[metabolic rate]] [[polyunsaturated fats]] [[fibroids]] [[thyroid hormone]]
 
-**Dr. Peat:** Younger people with higher metabolic rates change everything more quickly. The average person transitioning from a high polyunsaturated fat diet to a low one requires approximately four years to equilibrate to the new balance.
+**Caller (South Central Los Angeles):** How long does the body take to heal from all the damage? Let's say you reduce all the estrogen, the polyunsaturated fat, all the inflammatory things. How long does it take for somebody's body to reverse the damage? Is there a difference in age or is it the same for everyone?
 
-However, extreme effort can produce dramatic results. One early polyunsaturated fat researcher demonstrated a case where a subject consuming a laboratory-purified diet lacking polyunsaturated fats would develop illness. Instead, after three to four months, all chronic health problems—chronic migraines and other symptoms—disappeared and remained away. His lifelong problems resolved in just a few months through extreme avoidance of one harmful nutrient.
+**Dr. Raymond Peat:** The young person with the higher metabolic rate can change everything more quickly. The average person, if you move from a country that eats a lot of polyunsaturated fats to a country that eats very little of them, it can take four years to equilibrate to the new balance in the diet.
 
-**Caller Follow-up:** Would similar benefits apply to reducing estrogen? My wife suffers from fibroids and has had miscarriages caused by them.
+But if you make an extreme effort, like one of the early researchers in supposed essentiality of polyunsaturated fat—about three or four months into a diet absolutely lacking polyunsaturated fats, all of his chronic health problems disappeared, chronic migraine and other symptoms, and stayed away. So in his case, with an extreme avoidance of just one harmful nutrient, his lifelong problems disappeared in just a few months.
 
-**Dr. Peat:** With the right approach, dramatic reversals are possible. A friend, age 40 and wanting pregnancy, had imaging showing a tennis ball-sized fibroid blocking her uterus's end, preventing ovum delivery through the tubes. She took thyroid hormone supplementation. Monthly, despite the doctor warning she'd die from excess thyroid, imaging showed the fibroid shrinking. By approximately the fifth month, it had become about one-fourth its original size, and she became pregnant.
+**Caller Follow-up:** Would that also apply if you reduce things to get rid of estrogen? My wife suffers from fibroids and has had a couple of miscarriages because of the fibroid.
 
-**Sarah Johanneson Murray:** Thyroid hormone therapy lowered her estrogen and improved liver function in just five months.
+**Dr. Raymond Peat:** With the right amount—for example, a friend of mine who was 40 and wanted to get pregnant had a tennis ball-sized fibroid blocking the end of her uterus so the tubes couldn't open to deliver the ovum. But she took an overdose of thyroid. Every month the thyroid was shrunken. I think it was about the fifth month it had become about a fourth of its original size and she was pregnant.
 
-**Dr. Peat:** Numerous dietary components exist out of balance: excess iron, methionine, aspartate, glutamate, and cysteine. Fixing any single component produces drastic effects. Correcting half a dozen imbalanced components should produce very substantial effects quickly.
+**Sarah Johanneson Murray:** So the five months made a big difference just by using thyroid hormone. Natural thyroid hormone lowered her estrogen and improved her liver function.
 
-[[healing time]] [[metabolic rate]] [[polyunsaturated fats]] [[fibroids]] [[thyroid hormone]] [[estrogen reduction]]
-
----
+**Dr. Raymond Peat:** And there are so many other out of balance components of diet—too much iron in most people's food, too much methionine, aspartate, glutamate, cysteine. By fixing any one component, you can see drastic effects. So if you fixed half a dozen of these things that are out of balance, it should produce very huge effects quickly.
 
 ## Pediatric Intestinal Bleeding and GI Health
 
-**Caller (Arcata):** My young grandson has experienced two episodes of severe intestinal bleeding requiring pediatric hospitalization. Despite upper and lower GI scopes finding nothing, doctors suspect a Meckel's lesion in the small intestine. Can you recommend foods soothing to the GI tract or nutritionally beneficial?
+tags: [[pediatric bleeding]] [[Meckel's lesion]] [[carrageenan]] [[chamomile]] [[tannins]] [[GI inflammation]] [[iron]]
 
-**Dr. Peat:** First, absolutely avoid foods containing added gums, especially carrageenan. A very high percentage of current foods contain vegetable gums, microbial gums, or carrageenan—all highly pro-inflammatory. Simply eliminating these foods can stop chronic bowel bleeding.
+**Caller (Arcata):** I have a young grandson who has had two episodes of big intestinal bleeding, a couple of visits to a pediatric hospital with every scope of his upper and lower GI done, not finding anything. My question is could you recommend any foods that would be soothing to the GI tract or nutritionally beneficial?
 
-**Andrew Murray:** In herbal medicine, particularly in Germany and Europe where I studied, chamomile was the number-one GI anti-inflammatory. It has pronounced inflammation-blocking effects and GI soothing properties—chamomile is the "mother of the gut," the "nurse of the gut." That would be my first herbal choice, depending on bleeding type. Gentle tannins would also be indicated to gently astringe capillaries and tissues leaking blood into the small or large intestine lumen.
+**Dr. Raymond Peat:** The first thing to do would be to absolutely avoid foods that had added gums, especially carrageenan. A very high percentage of foods now contain vegetable gums or microbial gums or carrageenan, all of which are very pro-inflammatory. And just knocking out those foods can stop things like chronic bowel bleeding.
 
-**Sarah Johanneson Murray:** Can black or green tea provide these tannin benefits?
+**Caller:** Would aloe vera or slippery elm be helpful to be soothing?
 
-**Andrew Murray:** Absolutely—black tea is completely indicated, as are many other tannin-containing herbs like potentilla.
+**Andrew Murray:** In herbal medicine, particularly in Germany and Europe where I studied, chamomile was the number one GI anti-inflammatory. It's got a fairly pronounced effect in blocking inflammation and soothing the GI tract. Chamomile is mother of the gut, nurse of the gut. That would be one of the first things that I would give somebody from a herbal perspective. Gentle tannins would also be indicated from an herbal perspective to gently astringe the capillaries or the other tissues that are leaking blood into the lumen of the small intestine or large intestine.
 
-**Dr. Peat:** It's very important to check thyroid and vitamin D levels because deficiency in either can make the intestine hypersensitive to inflammation.
+**Sarah Johanneson Murray:** And that can be as simple as like black tea or green tea.
 
-**Andrew Murray:** Hemoglobin should be checked, as long-term chronic bleeding likely causes anemia—a negative factor for energy levels. Provide foods naturally containing iron rather than iron supplements. Iron is highly reactive and inflammatory. Prioritize iron-rich foods like liver.
+**Andrew Murray:** Yeah, black tea would be totally indicated, as would many other astringent containing herbs like potentilla.
 
-**Dr. Peat:** Avoid synthetic vitamin C—it reacts with body iron traces to produce inflammation.
+**Dr. Raymond Peat:** And it's very important to check thyroid and vitamin D levels because a deficiency of either of those can make the intestine hyper sensitive to inflammation.
 
-[[pediatric bleeding]] [[Meckel's lesion]] [[carrageenan]] [[chamomile]] [[tannins]] [[GI inflammation]] [[thyroid]] [[vitamin D]] [[iron]] [[synthetic vitamin C]]
+**Andrew Murray:** Hemoglobin would be looked at because if he's had long-term chronic bleeding, he'd be anemic and that's going to be a necessary negative factor for him in terms of his energy. And to support that, plenty of foods that would contain naturally present iron rather than any iron supplement. Iron is very reactive and quite inflammatory. So definitely go with foods that would be iron rich, like liver.
+
+**Dr. Raymond Peat:** Oh, and avoiding synthetic vitamin C. The synthetic vitamin C reacts with the traces of iron in your body to produce inflammation.
