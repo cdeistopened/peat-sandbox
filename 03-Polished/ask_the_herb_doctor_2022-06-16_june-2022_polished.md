@@ -136,3 +136,73 @@ They argue that human milk contained more PUFA than cow milk. So that became a s
 **Sarah Johanneson Murray:** Because the body naturally tries to keep it away from the baby. You're deficient. That rationale is insane.
 
 **Dr. Raymond Peat:** And they extend that to say that the aged brain contains increased amounts of omega-3 PUFA. So they're wanting to say that because you find it in the old brain, that means it should be there. But meanwhile, the old brain has deteriorated in proportion to the reduction of mitochondrial energy production, and that reduction corresponds to the increased presence of omega-3 PUFA in the brain. So at every point, they've twisted the science. One of the ways they twist it is with a certain test of retinal responsiveness to electrical stimulation. They say if you increase that with your added PUFA, you're going to show that addition makes the eye develop faster and the brain develop its mental ability sooner.
+
+## Caller: Menopause Support & Natural Remedies
+tags: [[menopause]] [[brain-fog]] [[nausea]] [[herbal-medicine]]
+
+A caller came in off the air asking about remedies for menopause symptoms—she was experiencing brain fog and nausea.
+
+**Sarah Johanneson Murray:** Ginger is always great for nausea.
+
+**Andrew Murray:** For brain fog, we're looking for good nootropics. I don't know how supportive you are of nootropics outside of using anti-stress substances like pregnenolone for decreasing cortisol and inflammation. What would your response be?
+
+**Dr. Raymond Peat:** Oh yeah. All of those things—coffee, for example, aspirin—things that promote mitochondrial oxidative use. Sugar and herbal support would be Vitex, Chaste Tree Berry, and Black Cohosh. Those are very effective at helping mitigate menopausal symptoms.
+
+## Fresh Milk vs Synthetic Breast Milk
+tags: [[breast-milk]] [[cow-milk]] [[formula]] [[nutrition]]
+
+Sarah asked a follow-up question about making formula from fresh milk. The question: if all baby formula is dehydrated, would you suggest adding anything to cow milk, fresh cow milk?
+
+**Dr. Raymond Peat:** Yeah. You can adjust the amount of fat and water if it makes it more palatable to the baby. But just as is, it'll work.
+
+Sarah then asked: what about the talk in the news of synthetic breast milk? Do you think that would be preferable to cow's milk for babies?
+
+**Dr. Raymond Peat:** Well, assuming that the mother is eating properly, because human milk reflects the human diet because we don't have a rumen. The cow can eat grass and weeds and quite a lot of polyunsaturated fats and detoxifies them in the rumen. So as a rule, if the woman is eating well, then her milk is gonna be better than cow's milk.
+
+**Sarah Johanneson Murray:** Of course, mama's milk, breast milk is preferable for a baby, with a healthy diet. But I've read about making breast milk in a laboratory, trying to synthesize breast milk in a lab. What are your thoughts on that?
+
+**Dr. Raymond Peat:** Well, probably not good. It might have certain similarities to breast milk, but it's definitely going to be a synthetic material.
+
+## Artificial Meat & Separation from the Natural World
+tags: [[artificial-meat]] [[natural-foods]] [[protein-aging]] [[metabolic-rate]]
+
+**Andrew Murray:** What about the subject of artificial meat? Between milk and meat and canceling out substances like sugar, I think the industry is seeking to separate people from their natural world. I'm not saying everyone needs to drink milk, but milk is an extremely good food. There's so much evidence to support its use that the whole demonization of it is the same kind of skewing information you've given previous examples of.
+
+You've mentioned that protein intake for older people doesn't necessarily need to be decreased. You're not big on muscle meat per se—you've always encouraged people to use the whole animal, getting gelatin from making broth with chicken or knuckle bones or lamb shank.
+
+**Dr. Raymond Peat:** Yeah. For many years people have been aware that with aging, the metabolic rate slows down. Brode Barnes was thinking about that and the importance of metabolic rate. He had been using a supplement of two grains of armored thyroid, and he decided to go on a high protein diet when he was around 60, and found that he had to double his dose of thyroid hormone to maintain his functioning. That shows that for an older person, what seems to be a good level of protein can actually be very powerfully suppressive to your thyroid function.
+
+**Andrew Murray:** We've talked about soy protein in the past being used as a meat alternative. We know that's definitely not beneficial because it raises estrogen in men and women and is relatively inflammatory in its own right.
+
+I think this speaks to a buyer beware mentality that everyone needs to try and remember. It's like social media and technology—we're kind of cajoled and lured into this seemingly fuzzy world of comfortable technology. We're really sucking down so much poison that it's like being on drugs that completely separate you from reality in terms of what's actually going on around you. You don't say anything and you're just cajoled and fuzzily thinking "it's okay if the government knows what they're doing. This COVID vaccine's a good thing. It saves lives."
+
+## Seed Saving, Food Sovereignty & Local Gardens
+tags: [[seed-saving]] [[corporate-control]] [[food-sovereignty]] [[local-gardens]]
+
+We had another caller from the Arcadia area who wanted to comment on the general trend of big corporations trying to control everything. The caller talked about seeds. While talking to a vendor at the farmer's market, they learned they had to buy seeds. Looking at the trend of how things are evolving, the caller expected that over time the seed supply is going to be controlled mostly by big companies, and they encouraged people to learn how to make their own seed, grow their own seed, save seed, and try to keep it from being contaminated with genes designed to make seeds sterile and non-reproducing.
+
+**Andrew Murray:** This really applies to people fortunate enough to have a garden—not acres of land, but a small garden to grow vegetables. We've all known this and it's happened in China, quite successfully, where millions and hundreds of millions of people were pulled out of rural agrarian locations and brought to the cities. When you're in the cities under government domain, you don't have a garden and don't have a connection to the natural world—that's when all of this breaks down.
+
+It's very similar to biblical references like the Tower of Babel, where massive confusion prevented people from understanding each other. They wanted to get on without God and didn't feel they needed natural creation. Unfortunately, that's a side effect of our humanism—we're numbed. So many people are just sucking it down. I find it hard to believe they're pulling it off, but I think what's happening is a concerted and orchestrated attempt. We're not even resisting—it's an orchestrated play and we're just going through the motions. But I'd never give up. I'd encourage everybody listening: never give up. They're never going to win. You just have to keep resisting until the very end because the end is not the end.
+
+## Hope, Cosmic Redemption & Resistance
+tags: [[hope]] [[resistance]] [[cosmic-justice]] [[world-economic-order]]
+
+**Andrew Murray:** Doctor Peat, you've been around quite a while now and you've seen governments come and go, heads of state come and go, lots of headlines and politics. In these last few closing moments, I want to ask: is there any hope for the world? I mean, I know we're still alive and trying to do the right thing, but where are you with all of this?
+
+**Dr. Raymond Peat:** I'm still hopeful. Like Reiner Fyolnir said, we have to do everything legal and possible to try to prosecute these people. But at some point, we have to count on some kind of a cosmic bailout for us.
+
+**Sarah Johanneson Murray:** Wait. Reiner is counting on a cosmic bailout?
+
+**Dr. Raymond Peat:** Yeah. I forgot his exact phrase, but he said he couldn't explain it rationally, but he had this confidence that the universe wasn't going to let that turn out the way the World Economic Federation hopes.
+
+**Sarah Johanneson Murray:** Or the IMF.
+
+**Andrew Murray:** Okay. Well, that's hopeful. There's hope then. I appreciate your time joining us on the show. I can only hope that people are listening and not calling in. The archive is there for people to listen to in the future, and the future will vindicate what you've said for a long time.
+
+## Closing Remarks & Show Information
+tags: [[closing]] [[technocracy]] [[resistance]] [[war-crimes]]
+
+I just wanted to finish by saying there's an undeniable connection between technocracy and dehumanization through lockdowns and social isolation. Through government coercive measures and Soviet-era style social control—where individuals are set against individuals, similar to the brownshirts of Nazi Germany—we're now in an Orwellian reality that, unless it's resisted, will become the de facto new normal. It must be resisted vehemently through peaceful protests and political involvement on the state and local level.
+
+We need another Hague in charges of international war crimes against humanity where the guilty are charged. That's why Reiner Formik's group in Germany is pressing these charges at this very moment. The thing is ongoing. I like to think that there is real justice and that we're not going to be sucked into the matrix—that we will find a way through it.
