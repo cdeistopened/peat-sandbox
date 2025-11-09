@@ -62,3 +62,30 @@ All major mass media and the social media technology companies have coordinated 
 tags: [[insurance-statistics]] [[vaccine-mortality]] [[statistical-analysis]]
 
 **Raymond Peat**: Several other companies since then have reported very similar increased mortality, around forty percent in the working age group. And so it's insurance companies generally have extremely accurate statistics, better than governments as a rule because their income depends on exactness. And so it's really the scientific basis for saying that, it wasn't the virus that's responsible but the vaccination. That's when the forty percent rise began. And it fits the virologists, the the skeptical virologists have been claiming that, that the mortality is going to be far, far worse from the vaccine than from whatever occurred from the virus.
+
+## Mortality Analysis and Disability Claims
+tags: [[all-cause-mortality]] [[disability-claims]] [[insurance-data]]
+
+**Andrew Murray**: Bruce, I think that was the, the point that was made mentioned that it was all cause now all cause mortality in young people and it was a lot of it was to do with damage and disability. So whether the death may have been, you know, caused by the vaccine or not, the amount of money paid out due to the disabilities that were, claimed. I think this is this is a pretty, a pretty stunning part of the, the numbers that we use to cite them, the the payments. And, I think we've mentioned in the past that the, when we're describing things like mortality and altitude, it was the very insurance companies that actually let that information out, which supported that claim that, that lower premiums were basically imposed on people at higher altitude because they really were not as likely as people at sea level to die.
+
+Yeah. Okay. So that's the first thing. Just seeing some kind of glaring headlines about deaths and insurance companies making payouts and how this is now just part of the fallout of COVID and everything that happened to try to mitigate this virus. Anyway, so that's been fairly, fairly long, a fairly long process here for the last two years now.
+
+## Omicron Variant Analysis
+tags: [[omicron]] [[virus-mutations]] [[lab-origin]] [[gene-sequences]]
+
+And supposedly now what we're seeing, not supposedly, but I think it's the actuality of it all, with Omicron, whether or not Omicron, I don't know. If you if you feel that whether or not your opinion is that Omicron is a naturally produced variant, or indeed any other type of.
+
+**Raymond Peat**: It has the most bizarre gene sequences of all of the other variants because starting with the Wuhan, the other variants show a series of mutations building on each other. So the most recent until Omicron showed exactly the same series of mutations incorporated, so it was definitely that virus improving its survivability by mutating. But the Omicron is unique. It didn't show any mutations after Wuhan. For the Wuhan virus was going through all of these changes, nothing was happening at all to the omicron. Suddenly, when it pops up, it is essentially the pristine Wuhan virus, with a new series built right on the original virus. None of the history of of natural mutation as it was being held held aside and going through different series of mutations as if it wasn't in the world at all for these intervening years.
+
+**Sarah Johanneson Murray**: So are you so are you saying that basically the original COVID went through mutations and you can track that, and then all of a sudden, Omicron was like the original with just some alterations to it. So it looked like it had been lab produced or produced in a lab?
+
+**Raymond Peat**: Yeah. And those mutations made it much less harmful. So it was if someone was praying preparing a product to end the pandemic by turning them off with a fairly harmless virus.
+
+**Sarah Johanneson Murray**: So do you think that when if people have Omicron and they've developed antibodies to that and caught that naturally, even though it's not a naturally mutated virus, then will they be better able to fight the original Delta or those other variants?
+
+**Raymond Peat**: No. It won't especially affect them. It'll just if it's the dominant virus and it's very harmless, then the other one just isn't going to be around to cause trouble.
+
+## Call-In Information
+tags: [[call-in]] [[phone-number]] [[show-schedule]]
+
+**Andrew Murray**: Okay. You're listening to Ask Your Herb Doctor. KMUD Garberville 91.1 FM. From 7:30 till the end of the show, callers are invited to call in with any questions either related to this month's discussion or indeed any other questions they'd like to pose to doctor Peat, about health related or quote unquote alternative medicine. The number's (707) 923-3911. So from 7:30 till the end of the show, 8:00, callers call in to (707) 923-3911.
