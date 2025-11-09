@@ -89,3 +89,36 @@ And supposedly now what we're seeing, not supposedly, but I think it's the actua
 tags: [[call-in]] [[phone-number]] [[show-schedule]]
 
 **Andrew Murray**: Okay. You're listening to Ask Your Herb Doctor. KMUD Garberville 91.1 FM. From 7:30 till the end of the show, callers are invited to call in with any questions either related to this month's discussion or indeed any other questions they'd like to pose to doctor Peat, about health related or quote unquote alternative medicine. The number's (707) 923-3911. So from 7:30 till the end of the show, 8:00, callers call in to (707) 923-3911.
+
+## Ukraine Agricultural Land and Corporate Takeover
+tags: [[ukraine]] [[monsanto]] [[agriculture]] [[oakland-institute]]
+
+Okay. So moving on to, the kind of major content of this next forty five minutes, I read an article about the Oakland Institute and this was a 2014 article. And the article is certainly, yeah, nearly eight years later, what we're seeing now in Ukraine and Russia, it's kind of not really a political question but, you know, it is really a question that's embroiled in health and government control and takeovers and, you know, aggressive campaigning of which, you know, people have certainly heard a lot about Roundup and Monsanto. And we've all heard about GMO and Monsanto and it's a huge corporation.
+
+So the Oakland Institute, like I said, published a 2014 paper outlining what was being described then as a global corporate takeover of agricultural land in The Ukraine. And when you look at Ukraine, it's been hailed as the breadbasket of Europe, with a staggering 32,000,000 plus hectares of incredibly fertile, black, arable soil. Now, for those of you who are gardeners, or horticulturalists, or farmers, you're well aware of what this means to crops planted. In short, lush, rich, fertile growth with excellent crop yields and quality harvests.
+
+If you too are Monsanto, one of the biggest agribusinesses on the planet, or one of a handful of other players buying into this hugely profitable location, rights to ownership and to play this game is extremely lucrative, and corruption, as always, exists at the highest level for the highest returns, naturally. Ukraine's agricultural land was under a moratorium that banned its sale, through 01/01/2016. And when Ukraine separated from the Soviet Union in 1990, collectivized communal farms were disbanded, and land was distributed in parcels approximately four hectares each to people living on the collectivized farms.
+
+In 02/2001, Ukraine passed its land code legislation that gave people functional titles to land. And since then, there's been a moratorium on the sale of land, which, as noted, was extended through 01/01/2016. The moratorium on land sales applies only to agricultural land, making it both legal and affordable for investors to build and operate a 100% foreign owned processing facility on its own industrial land while leasing fields from agricultural landowners until the moratorium on the sale of agricultural land was lifted.
+
+A second way that investors could circumvent the land moratorium was by buying shares of large existing Ukrainian agribusinesses. The system of land distribution in the 1990s often led to the concentration of land in the hand of a few elites. Alongside land, opportunities in Ukraine for the development, production and the use of agricultural inputs like seeds, agrochemicals and fertilizers have attracted investment by agribusiness giants Monsanto, Cargill, DuPont and others.
+
+So I was going to ask you, Doctor Peat, you had lots of other information to tie this.
+
+## IMF Loans, Ukraine Coup, and Zelensky Government
+tags: [[imf-loan]] [[ukraine-coup]] [[zelensky]] [[monsanto-privatization]]
+
+**Raymond Peat**: Everyone has heard about the International Monetary Fund offering Ukraine a $40,000,000,000 loan if they would stop the moratorium specifically so Monsanto and the other giant corporations could concentrate ownership on a big corporate scale. And that there was a coup to make that happen because the elected president had rejected the IMF fund. And the IMF, working with World Bank and all of the other so called Western authorities wanted to reverse that, stop the moratorium, and so they supported the coup. And the coup was very clear that they were going to adapt laws that would let Monsanto take over. And when the coup happened, in fact, that that did take place, and so they had to get get rid of the legally elected president and establish the the Zelensky Government supporting the the Monsanto privatization system.
+
+## Russia's Organic Farming Goals vs Western GMO Promotion
+tags: [[russia]] [[organic-farming]] [[gmo-ban]] [[putin]]
+
+**Andrew Murray**: So how do you see Russia's involvement? I mean, because it seems to be a two sided story. Some people say that, you know, the Ukraine from a political and or ownership geographical perspective.
+
+**Raymond Peat**: Well, part of the Monsanto thing is that, that they want to use chemicals roundup right. To to make the profitability of certain giant land corporations favorable to them. And the European Union had opposed The United States policy of supporting Monsanto and genetic modification. And so the there was a conflict between Western Europe, who had quite a lot of resistance. Several European Western European countries went along with wanting to outlaw GMOs. And it turned out that historically, Russia had been passing laws to promote organic farming Right. And to outlaw GMOs. And so they were aiming for a 100% freedom from GMOs and naturally from Monsanto. And the the that that really was the polarization for for the coup, for the International Monetary Fund loan.
+
+When the elected president made a deal with Russia for a loan that would bypass the International Monetary Fund. That was the the actual moment when when the coup took place and they cut him out of out of Ukraine.
+
+**Andrew Murray**: I'd, I read well, I think it was a couple of years ago and so you can back me up on this that, Vladimir Putin was boasting, that he was gonna make Russia one of the, if not the biggest, organic food producer in the world. Yeah, that's what one of his goals was. But I mean, I thought GMOs are still banned in Europe. Well, I think they are in England. I'm pretty sure England have banned GMOs in No. I thought in England, they're not banned but because they're not part of the EU. So the EU is banned GMOs. Is that what you're understanding, doctor Peat?
+
+**Raymond Peat**: They are wobbling on the issue. There is still opposition to it, but the now the war for Monsanto has affected the West, and they aren't pushing so hard to to oppose the GMOs.
