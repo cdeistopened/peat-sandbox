@@ -61,3 +61,54 @@ The radiation doesn't have to hit the DNA. It does something excitatory and pro-
 **Sarah Johanneson Murray:** So the stress of that dental X-ray spread all the way down to the uterus and the developing baby.
 
 **Dr. Raymond Peat:** Everything in the body.
+
+## The Cancer Field and Bystander Effect
+
+tags: [[cancer field]] [[bystander effect]] [[lactic acid]] [[cellular stress]] [[gradient damage]]
+
+**Andrew Murray:** I wanted to just briefly get into the term cancer field before we open up the lines. I wanted to outline this concept of the cancer field and how it propagates damage. You wrote in your January newsletter that the cancer field is set up such that the actual tumor itself, in a radiating pattern out from the tumor, has differing degrees of damage to the cells. Essentially, there's a radiating pattern of damage from the central tumor out to distant tissues beyond the tumor that are pre-cancerous, and that is propagated by a direct pathway similar to the bystander effect.
+
+**Dr. Raymond Peat:** Yeah, any of the intense stresses like oxygen or glucose deficiency will reduce efficient oxygen metabolism and cause stress signals. When one particular area is responding more intensely to stress, what you get is a small local version, maybe a few inches in diameter, of the organismic bystander effect. The bystander effect refers to things that are well-distributed through the body.
+
+But the intense signals, such as a cell that is approaching or already turned into cancer, will chronically produce an excess of lactic acid, even when it gets oxygen. So there will be a gradient of lactic acid surrounding that cell that irritates and disturbs the nearby cells, which then begin producing lactic acid, and that spreads maybe through a few centimeters of solid tissue. Just the local diffusion causes a visible gradient, ending up in a gradient of DNA damage and mutations.
+
+It's hard to list all of the factors other than lactic acid that are diffusing out of an injured cell. They include carbon monoxide, nitric oxide, inflammatory cytokines—a variety of those. Everything that the body uses to respond protectively to damage. It can help local tissues multiply faster so that they can fill in a wound, for example, accelerates the movement and replication of cells. That's an essential part of healing a wound, but when it's coming from a mutated or seriously damaged group of cells, then it's tending to simply spread the damage rather than accelerate the healing.
+
+So all of these are normal healing factors—like activating the local production of estrogen. That's a normal part of repairing tissue damage. But when it is prolonged and something causes the body to be unable to turn it off, each of these things adds to the spreading effect. As far as it diffuses locally, you'll see this gradient of deterioration, including mutations. And meanwhile, it's adding a burden to the whole organism with the more likely radiation bystander effect.
+
+## The mTOR/PI3K/AKT Pathway in Cancer
+
+tags: [[mTOR]] [[PI3K]] [[AKT]] [[cancer pathway]] [[signaling mechanism]] [[pathway activation]]
+
+**Andrew Murray:** Before I guess we get into the continued dialogue about mTOR and its importance as a target for the treatment of cancer, I just wanted to outline this differentiation between mechanistic versus holistic approach to treatment. I read an article in preparing for this which was exhaustive and had a lot of good reference material. Basically, they discussed the phosphoinositide 3 kinase and AKT and mTOR pathway as a three-branched signaling pathway.
+
+They said that essentially approximately 70% of ovarian and breast cancers are activated by a derangement in this pathway. And about 90% of lung adenocarcinomas show an aberrant activation of this pathway. Then 40% or so of squamous cell carcinomas are activated by this pathway. Last month we talked about mTOR for the first time, and you mentioned mTOR 1 and mTOR 2 as being subsets of mTOR. So would you just outline briefly again the mTOR 1 and mTOR 2?
+
+**Dr. Raymond Peat:** The 1 form is an activating phosphorylating enzyme. When you're normally fed and growing, it's what mediates between eating more and growing more. And if you overeat at any time, you tend to overproduce this growth factor that necessarily leads to the degenerative diseases. Excess calorie intake is very important, and the activation of the cell will turn on mTOR and synthesis and growth such that intracellular calcium increases. Calcium should mostly be outside the cells, but inside the cell, it's an activating factor that increases mTOR.
+
+The 2 form of the enzyme does similar things, but it's fairly insensitive to the usual signals such as overeating. It depends mostly on growth hormone. And many kinds of stress will turn on an excess of growth hormone. Women have spectacularly high levels of growth hormone compared to men as a result of estrogen's stress-inducing effect. So growth hormone has some particular ways of affecting our handling of fat. But that's basically the way mTOR 2 is turned on through high growth hormone.
+
+**Andrew Murray:** And these growth hormones in their own right are proliferative agents that would promote cancer growth.
+
+**Dr. Raymond Peat:** Yeah.
+
+**Andrew Murray:** When I read about the mTOR PI3K and AKT pathways, it looked like it wasn't just about mTOR that we discussed last month, but that these other two arms of the same signaling messenger system—the phosphoinositide and the AKT pathway—were also very good targets for shutting down essentially the energy pathway. I had trouble reconciling this with given that thyroid hormone and progesterone are anti-inflammatory and energy-conserving mechanisms. I was concerned that interfering with energy production might not end well. Perhaps this is the same mechanism by which calorie control and calorie restriction produce greater longevity?
+
+**Dr. Raymond Peat:** Yeah. Overeating and mTOR and so on tend to favor the oxidation of fats over glucose. When that happens, you're basically slowing down the constructive part of energy metabolism and shifting over towards some of these risky simple growth pathways.
+
+## Natural mTOR Inhibitors and Protective Compounds
+
+tags: [[turmeric]] [[resveratrol]] [[EGCG]] [[flavonoids]] [[ginger]] [[metformin]] [[PI3K inhibitors]] [[AKT inhibitors]]
+
+**Andrew Murray:** I wanted to run through some natural mTOR inhibitors. I think I mentioned turmeric—it's getting a lot of press for its anti-rheumatic, anti-inflammatory effects and for its own anti-cancer effects, and probably gets its anti-cancer benefits from being a natural mTOR inhibitor. And then resveratrol, from Polygonum cuspidatum and from grape skins. And then a compound whose abbreviation is EGCG—epigallocatechin gallate—from green tea, as well as caffeine. I was pleased to see caffeine listed as potentially inhibiting mTOR signaling directly and indirectly.
+
+I saw two other substances that caught my attention. One was a substance called shogaol from ginger root. There was an article reference saying it inhibited the PI3K AKT mTOR pathway by directly targeting AKT 1 and AKT 2 but not the PI3K or the mTOR pathway directly. So ginger was used there specifically for colon cancer.
+
+And then I know you're not into pre-diabetes treating drugs, but metformin. Do you have any good things to say about metformin? Metformin was actually listed as one of those things to inhibit mTOR.
+
+**Dr. Raymond Peat:** Yeah. The only drawback is that it acts to inhibit part of the electron transport chain, so it's impairing the mitochondria while also doing the beneficial thing of turning off mTOR. So it's good to be cautious about metformin because there's not enough known about it. But still its effects are generally protective through inhibiting mTOR.
+
+**Andrew Murray:** Do you think there's much value in using some of these substances as a potential treatment for Alzheimer's? I saw other references for neurodegenerative disorders and then I think there may have been a Parkinson's indication because of the amyloid beta that could be treated or decreased and the neurofibrillary tangles that could be mitigated by using some of these substances because of their effect on mTOR and mTOR's downstream effects on amyloid production.
+
+**Dr. Raymond Peat:** Yeah, inflammation is involved in all of the degenerative processes. And so the anti-inflammatory, anti-mTOR things are turning out to be protective against obesity, Alzheimer's, rheumatoid arthritis, lupus—anything you can think of turns out to involve inflammation at its root.
+
