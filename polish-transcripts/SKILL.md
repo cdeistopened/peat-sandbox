@@ -7,18 +7,53 @@ description: Polish raw interview transcripts into searchable, well-structured m
 
 Transform raw transcripts into discoverable, navigable documents where an LLM agent can find specific information without reading the entire transcript. This skill maintains 100% fidelity to technical and medical content while improving readability.
 
-## Workflow: Three Sequential Steps
+## Workflow: Four Sequential Steps
 
-### STEP 1: Setup & Metadata
+### STEP 1: Read & Understand (Build Contextual Glossary)
 
-1. **Read first 500 lines** of raw transcript to understand:
-   - Speakers (hosts, guests, callers)
-   - Major topics
-   - Show format
+**CRITICAL: Do this FIRST before any polishing begins.**
 
-2. **Create new markdown file** named: `[filename]_polished.md` (replace `_raw` with `_polished`)
+1. **Read the entire raw transcript** (skim if necessary, but read fully)
+   - Don't start polishing yet
+   - Goal: Understand the content deeply
 
-3. **Add YAML Front Matter at very top:**
+2. **Build a contextual glossary as you read:**
+   - Names: Who are all the speakers? Get full, correct names. Cross-check against context.
+   - Key people referenced: Who is mentioned? (Reiner Fuellmich, not "Fyolnir"; Raymond Peat, not "Pete")
+   - Organizations: What companies, institutions, agencies are discussed?
+   - Key terms: What specialized vocabulary is used? (PUFA, KMUD, etc.)
+   - References: What studies, websites, or resources are cited?
+   - Technical content: What are the main medical/technical claims being made?
+   - Recurring themes: What topics appear multiple times?
+
+3. **Read between the lines:**
+   - What is the speaker actually saying when they're being unclear?
+   - What context helps clarify garbled or mumbled sections?
+   - What assumptions or background knowledge is the speaker operating from?
+   - Where might transcription errors have occurred?
+
+4. **Draft Table of Contents structure (topics only, no line numbers yet):**
+   - Identify the major topics/sections as you read
+   - List them in order as:
+     ```
+     ## [Topic Title]
+     ## [Topic Title]
+     ## [Topic Title]
+     ```
+   - This is just the structure—no actual line numbers yet
+
+5. **Document any uncertainties:**
+   - Flag unclear passages: [unclear about X]
+   - Flag names you're unsure about: [verify name: sounds like "Fyolnir"]
+   - Flag technical terms that need context: [need to understand what PUFA means in context]
+
+---
+
+### STEP 2: Setup & Metadata
+
+1. **Create new markdown file** named: `[filename]_polished.md` (replace `_raw` with `_polished`)
+
+2. **Add YAML Front Matter at very top** (use verified names from STEP 1 glossary):
 
 ```yaml
 ---
@@ -26,16 +61,16 @@ title: "[Descriptive Topic] - [Show Name] [Date]"
 show_name: "[Exact show name]"
 date: "YYYY-MM-DD"
 speakers:
-  - "[Full Name]"
-  - "[Full Name]"
+  - "[Full Name - VERIFIED from STEP 1]"
+  - "[Full Name - VERIFIED from STEP 1]"
 ---
 ```
 
 ---
 
-### STEP 2: Polish Content with Dynamic Headers
+### STEP 3: Polish Content with Dynamic Headers
 
-**DO NOT create Table of Contents yet.** Go straight to polishing the actual transcript content.
+**Using the TOC structure from STEP 1, now polish the actual transcript content.**
 
 **REMOVE technical/audio sections first:**
 - Cut out opening radio mechanics (station IDs, underwriter announcements, fundraising pitches)
@@ -44,7 +79,7 @@ speakers:
 
 **Process:**
 1. Polish transcript section by section following the rules below
-2. When topic substantially changes, insert a header: `## [Topic Title]`
+2. When topic substantially changes, insert a header: `## [Topic Title]` (from STEP 1 structure)
 3. After each header, add tags (see format below)
 4. **Always end each pause point with a new header and the opening dialogue of the next section** to ensure continuity and allow for review of header placement
 5. Continue polishing the next section
@@ -67,9 +102,13 @@ tags: [[tag1]] [[tag2]] [[tag3]] [[tag4]]
 
 ---
 
-### STEP 3: Generate Table of Contents (VERY END - AFTER ENTIRE POLISHING IS DONE)
+### STEP 4: Generate Table of Contents with Line Numbers (FINAL STEP)
 
-**ONLY after the entire transcript is fully polished**, create a Table of Contents and insert it right after the YAML metadata.
+**ONLY after the entire transcript is fully polished**, add line numbers to the TOC structure from STEP 1.
+
+**Process:**
+1. Get actual line numbers from the polished file (use `grep -n "^## " polished.md`)
+2. Insert the formatted TOC right after YAML metadata with actual line numbers
 
 **Format:**
 
@@ -83,13 +122,12 @@ Line Z - [[#Chapter Header 3|Chapter Header 3]]
 
 **Rules:**
 - Use "Line X" format (no numbering like "1.", "2.")
-- List all major section headers in order
-- Get actual line numbers from the polished file
+- List all major section headers in order of appearance
+- Use actual line numbers from the polished file
 - Insert this TOC section as the first content block after YAML front matter
 - Do NOT include key takeaways or descriptions—just the links and line numbers
-```
 
-Match TOC entries to headers created during Step 2.
+Match TOC entries to headers created during Step 3.
 
 ---
 
@@ -220,6 +258,10 @@ Match TOC entries to headers created during Step 2.
 
 ## Processing Notes
 
-Processing happens in chunks with pause points. After every 1,500-2,000 lines of polished content, the process pauses for fidelity review. This ensures technical accuracy is maintained and the approach can be adjusted if needed.
+**STEP 1 is non-negotiable:** Read and understand the entire transcript before touching anything. This prevents name errors, context misses, and ensures the TOC structure is sound from the start.
+
+**STEP 3 (Polishing) happens in chunks** with pause points. After every 1,500-2,000 lines of polished content, pause for fidelity review. This ensures technical accuracy is maintained and the approach can be adjusted if needed.
+
+**STEP 4 (TOC with line numbers) is purely mechanical:** Only after all content is polished, grep for headers and add line numbers. Don't change anything else.
 
 The skill improves iteratively as it's used—feedback from checkpoint reviews informs updates to these guidelines.
