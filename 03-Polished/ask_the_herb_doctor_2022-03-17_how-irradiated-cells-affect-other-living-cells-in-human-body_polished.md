@@ -8,6 +8,21 @@ speakers:
   - Dr. Raymond Peat
 ---
 
+## Table of Contents
+
+Line 26 - [[#Introduction|Introduction]]
+Line 36 - [[#Dr. Raymond Peat's Background|Dr. Raymond Peat's Background]]
+Line 46 - [[#Mechanistic vs. Holistic Approaches to Biology|Mechanistic vs. Holistic Approaches to Biology]]
+Line 60 - [[#Radiation and the Whole Organism|Radiation and the Whole Organism]]
+Line 80 - [[#The Cancer Field and Bystander Effect|The Cancer Field and Bystander Effect]]
+Line 94 - [[#The mTOR/PI3K/AKT Pathway in Cancer|The mTOR/PI3K/AKT Pathway in Cancer]]
+Line 114 - [[#Natural mTOR Inhibitors and Protective Compounds|Natural mTOR Inhibitors and Protective Compounds]]
+Line 130 - [[#Caller Questions: Turmeric Extraction and Medicinal Use|Caller Questions: Turmeric Extraction and Medicinal Use]]
+Line 148 - [[#Caller Questions: Sugar Types and Cancer Metabolism|Caller Questions: Sugar Types and Cancer Metabolism]]
+Line 162 - [[#Sugar as Therapeutic Medicine|Sugar as Therapeutic Medicine]]
+Line 184 - [[#Vitamin D as mTOR Inhibitor|Vitamin D as mTOR Inhibitor]]
+Line 190 - [[#Closing|Closing]]
+
 ## Introduction
 
 Welcome to the March 18, 2022 edition of Ask the Herb Doctor on KMUD Garberville 91.1 FM. This month's topic continues our discussion of mTOR and introduces the critical concept of the cancer field—how irradiated cells and stressed cells affect other living cells in the human body at a distance. We'll also explore the difference between mechanistic and holistic approaches to understanding disease.
@@ -143,3 +158,42 @@ tags: [[glucose]] [[sugar types]] [[honey]] [[fructose]] [[cancer metabolism]] [
 **Sarah Johanneson Murray:** Well, I think I want to go back to the sugar issue and the cancer issue that you touched on earlier. Every cell in the body needs glucose to operate. So if you don't eat any kind of sugar, your body's going to turn on a harmful metabolism to make sugar. And that is involving lactic acid. Correct, Dr. Pete?
 
 **Dr. Raymond Peat:** And high cortisol. Cortisol is necessary to mobilize and break down the protein to make amino acids and glucose, which also promotes cancer.
+
+## Sugar as Therapeutic Medicine
+
+tags: [[glucose]] [[honey]] [[wound healing]] [[fructose manufacturing]] [[therapeutic sugar]]
+
+**Sarah Johanneson Murray:** Cortisol also promotes cancer. It's a stress promoter.
+
+**Dr. Raymond Peat:** Weakens your immunity against it.
+
+**Sarah Johanneson Murray:** Yeah, lowers your immune system. Everybody knows steroids suppress the immune system. And cortisol is a natural steroid your body will make when you starve your body of sugar and glucose. So I know, doctor, you said that honey and white sugar cane sugar are identical in their structure. They both are sucrose, which is half fructose and half glucose.
+
+**Dr. Raymond Peat:** Yeah. And the pure fructose on the market for many people has allergenic effects because of its manufacturing in a more complex way than with sucrose. You simply concentrate the juice and remove the impurities from the cane juice to make white sucrose. But to make fructose, chemical and enzyme processes are used that introduce some trace allergens. So you have to be cautious about using what they call powdered fructose.
+
+**Sarah Johanneson Murray:** So you would recommend honey or cane sugar over fructose because of the process that the fructose goes through, even though fructose is more nutritious sugar?
+
+**Dr. Raymond Peat:** Yeah. And the other thing too is that you don't recommend people just eat white sugar by the tablespoon without balancing it with a healthy fat, like coconut oil or butter, and a protein, or at least with just a protein so that it's not just an instant sugar spike.
+
+**Dr. Raymond Peat:** Yeah. It can be used in a pure form, for example, as a mild analgesic for babies. They give them a bit of pure sucrose as a painkiller. And in areas that lack penicillin, a big wound that otherwise would be fatal has been packed with pure store-bought white sugar. It has a germicidal effect as well as a protective effect.
+
+**Sarah Johanneson Murray:** Well, honey does too. They pack wounds with honey as well.
+
+**Dr. Raymond Peat:** Yeah. So it has specific therapeutic effects besides its protective nutritional effects.
+
+## Vitamin D as mTOR Inhibitor
+
+tags: [[vitamin D]] [[mTOR inhibition]] [[inflammation]] [[prostaglandins]] [[immune function]]
+
+**Dr. Raymond Peat:** One thing I want to mention before we're finished is that vitamin D is a very important inhibitor of mTOR because it works on many other levels. It inhibits things that would promote mTOR and reduces the processes that would amplify a little inflammation into a big inflammation, such as blocking prostaglandin formation.
+
+## Closing
+
+**Andrew Murray:** Okay, excellent. So, Dr. Pete, I do appreciate you joining us again on the show. I'll give out your information and thank you so much.
+
+**Dr. Raymond Peat:** Okay, thank you.
+
+**Sarah Johanneson Murray:** Thank you, Dr. Pete.
+
+**Andrew Murray:** Okay, so for those who've listened to this March 18, 2022 edition of Ask Your Herb Doctor, Dr. Pete can be reached at www.raypeat.com, which has a website full of articles about many different subjects—fully referenced scientific articles based in science, not opinion. We can both be reached at www.westernbotanicalmedicine.com. Dr. Pete has been kindly giving his time on the third Friday of each month on KMUD.org in Garberville, California. Thank you for joining us, and we'll see you next month.
+
