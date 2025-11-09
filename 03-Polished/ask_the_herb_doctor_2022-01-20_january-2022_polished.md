@@ -1,11 +1,11 @@
 ---
 title: Ask the Herb Doctor - January 2022
-show: Ask the Herb Doctor
-date: 2022-01-20
+show_name: Ask the Herb Doctor
+date: "2022-01-20"
 speakers:
-  - Andrew Mai (Host)
-  - Sarah Johanneson Murray (Co-host)
-  - Dr. Ray Peat (Guest)
+  - Andrew Murray
+  - Sarah Johanneson Murray
+  - Dr. Raymond Peat
 ---
 
 ## Introduction
@@ -18,7 +18,7 @@ Welcome to the January 21, 2022 edition of Ask the Herb Doctor on KMUD Garbervil
 
 ## Dr. Ray Peat's Background
 
-**Andrew Mai:** Let me introduce our guest Dr. Ray Peat, and tell our audience about your expertise.
+**Andrew Murray:** Let me introduce our guest Dr. Ray Peat, and tell our audience about your expertise.
 
 **Dr. Peat:** I was initially a student of humanities, teaching painting and English literature. I became interested in language and how the brain accomplishes this feat, so I pursued graduate school in biology to study the brain. In 1968, I went to the University of Oregon and found the nerve biology section extremely dogmatic—they cared more about their theories than experimental evidence. However, the aging research and reproductive physiology labs were genuinely interested in understanding what was actually happening. I completed my dissertation in 1972 on age-related oxidative changes in the hamster uterus. This research revealed an enormous amount of information relevant to brain function, aging, and the principles that allow organisms to redesign cells and begin new life from a single fertilized ovum. These same principles apply to understanding brain function in relation to behavior and language. I've been working on these subjects ever since.
 
@@ -28,7 +28,7 @@ Welcome to the January 21, 2022 edition of Ask the Herb Doctor on KMUD Garbervil
 
 ## Herbal Perspectives on Estrogen Modulation
 
-**Andrew Mai:** Before we dive into MSG, I want to share several herbal remedies that have been shown to modulate estrogen and its effects.
+**Andrew Murray:** Before we dive into MSG, I want to share several herbal remedies that have been shown to modulate estrogen and its effects.
 
 The first is Momordica charantia, or bitter melon—a cucurbitaceous vine-bearing plant with estrogen-modulating properties. It also functions as an anti-diabetic plant, helping regulate blood glucose.
 
@@ -138,7 +138,7 @@ Calcium is the excitatory molecule cells must normally exclude. When cells retai
 
 ## Caller Questions
 
-### Understanding Inflammation and Aging
+## Understanding Inflammation and Aging
 
 **Caller (Avenue of the Giants):** Can you explain what inflammation means? Is it inflammation of the cells, inflammation around muscle tissue, or something related to arthritis and age-related aches and pains?
 
@@ -152,7 +152,7 @@ If carbon monoxide formation is blocked (as with traumatic head or spinal cord w
 
 ---
 
-### Healing Time and Estrogen Reduction
+## Healing Time and Estrogen Reduction
 
 **Caller (South Central Los Angeles):** How long does the body take to heal from damage if you reduce estrogen, polyunsaturated fat, and inflammatory substances? Is there an age difference, or is healing time the same for everyone?
 
@@ -172,21 +172,21 @@ However, extreme effort can produce dramatic results. One early polyunsaturated 
 
 ---
 
-### Pediatric Intestinal Bleeding and GI Health
+## Pediatric Intestinal Bleeding and GI Health
 
 **Caller (Arcata):** My young grandson has experienced two episodes of severe intestinal bleeding requiring pediatric hospitalization. Despite upper and lower GI scopes finding nothing, doctors suspect a Meckel's lesion in the small intestine. Can you recommend foods soothing to the GI tract or nutritionally beneficial?
 
 **Dr. Peat:** First, absolutely avoid foods containing added gums, especially carrageenan. A very high percentage of current foods contain vegetable gums, microbial gums, or carrageenan—all highly pro-inflammatory. Simply eliminating these foods can stop chronic bowel bleeding.
 
-**Andrew Mai:** In herbal medicine, particularly in Germany and Europe where I studied, chamomile was the number-one GI anti-inflammatory. It has pronounced inflammation-blocking effects and GI soothing properties—chamomile is the "mother of the gut," the "nurse of the gut." That would be my first herbal choice, depending on bleeding type. Gentle tannins would also be indicated to gently astringe capillaries and tissues leaking blood into the small or large intestine lumen.
+**Andrew Murray:** In herbal medicine, particularly in Germany and Europe where I studied, chamomile was the number-one GI anti-inflammatory. It has pronounced inflammation-blocking effects and GI soothing properties—chamomile is the "mother of the gut," the "nurse of the gut." That would be my first herbal choice, depending on bleeding type. Gentle tannins would also be indicated to gently astringe capillaries and tissues leaking blood into the small or large intestine lumen.
 
 **Sarah Johanneson Murray:** Can black or green tea provide these tannin benefits?
 
-**Andrew Mai:** Absolutely—black tea is completely indicated, as are many other tannin-containing herbs like potentilla.
+**Andrew Murray:** Absolutely—black tea is completely indicated, as are many other tannin-containing herbs like potentilla.
 
 **Dr. Peat:** It's very important to check thyroid and vitamin D levels because deficiency in either can make the intestine hypersensitive to inflammation.
 
-**Andrew Mai:** Hemoglobin should be checked, as long-term chronic bleeding likely causes anemia—a negative factor for energy levels. Provide foods naturally containing iron rather than iron supplements. Iron is highly reactive and inflammatory. Prioritize iron-rich foods like liver.
+**Andrew Murray:** Hemoglobin should be checked, as long-term chronic bleeding likely causes anemia—a negative factor for energy levels. Provide foods naturally containing iron rather than iron supplements. Iron is highly reactive and inflammatory. Prioritize iron-rich foods like liver.
 
 **Dr. Peat:** Avoid synthetic vitamin C—it reacts with body iron traces to produce inflammation.
 

@@ -1,11 +1,11 @@
 ---
 title: Ask the Herb Doctor - February 2022
-show: Ask the Herb Doctor
-date: 2022-02-17
+show_name: Ask the Herb Doctor
+date: "2022-02-17"
 speakers:
-  - Andrew Murray (Host)
-  - Sarah Johanneson Murray (Co-host)
-  - Dr. Ray Peat (Guest)
+  - Andrew Murray
+  - Sarah Johanneson Murray
+  - Dr. Raymond Peat
 ---
 
 ## Introduction and Background
