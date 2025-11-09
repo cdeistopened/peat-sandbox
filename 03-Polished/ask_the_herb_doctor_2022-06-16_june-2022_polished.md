@@ -157,3 +157,136 @@ tags: [[baby-formula]] [[soy-formula]] [[estrogenic-factors]] [[nestle]]
 Okay. So getting to the milk crisis, the baby milk crisis. I wonder what your opinion of this is because I know you've definitely got lots to say about soy and PUFA and all of these things. I mean, from a perspective of making money from a corporate perspective of, you know, mothers in Africa. And I'm not saying that women that have children that don't produce enough milk shouldn't be helped, of course not. But there are other alternatives to formula. So what do you think about this baby formula crisis? It may be not a bad thing.
 
 **Raymond Peat**: The soy formula had its own terrible side effects in immature animals. The estrogenic factors associated with the proteins used in making the male substitute are cause deformed genitals in the developing young and later later promote tumors of various sorts. So the the plant based milk formulas were a terrible problem in themselves. And Nestle, Innovations, basically selling dehydrated cow milk as a basis for people around the world to mix up at home, to produce a liquid milk substitute, despite the fact that clean clean water to mix it with is absent in so many of the poor countries. So they were doing something very counter social and interest.
+
+But the even in The US, where people couldn't make a formula themselves, if they really couldn't produce milk, they could simply make a formula based on cow milk. And when it isn't dehydrated, the reaction on the immune system is less less harmful. To take take a nonhuman milk and introduce it right at the very beginning will cause some endogenic differences, but at least if it's made from fresh cow milk. That's a lot safer than dehydrating because every time you dehydrate a living substance, you kill it and oxidize some of the proteins, amino acids, and especially the fatty acids. The cholesterol is oxidized. That's really only one of the fairly, trivial problems of dehydrated milk. It's the cholesterol is is damaged and made toxic, but many, many other components of the milk are susceptible to oxidative damage.
+
+There is a whole anti science that has grown up to defend the industry's use, not only of dehydrated milk, but of the added polyunsaturated fatty acids, which is it's really a separate issue because they argue that human milk contained more PUFA than cow milk. And so that has been a separate industry to say that the baby must be given a supplement of n minus three fatty acids because, they they say, almost all babies at birth have evidence of a deficiency of n minus three fatty acids.
+
+**Sarah Johanneson Murray**: And that's because the placenta has filtered it out.
+
+**Raymond Peat**: Yeah. Exactly. It is recognized as something to be excluded during pregnancy. And but they refer that and say you need to supplement everyone because everyone is deficient.
+
+**Sarah Johanneson Murray**: Because the body naturally tries to keep it away from the baby. You're deficient. That's just the rationale is insane.
+
+**Raymond Peat**: And they extend that to say that the aged brain contains increased amounts of n minus three PUFA. And so they they are wanting to say that because you find it in the old brain, that means it should be there. But, meanwhile, the old brain has deteriorated in proportion to the reduction of mitochondrial energy production, and that reduction corresponds to the increased presence of m minus three PUFA in the brain. So at every point, they've twisted the science, and one of the ways they twist it is with a certain, test of retinal responsiveness to electrical stimulation. And they say if you increase that with your added proof of it, you're going to show that that addition makes the eye develop faster and the brain developing its mental ability sooner. But that that is all just, fantasy speculation.
+
+## Off-Air Caller on Menopause
+tags: [[menopause]] [[brain-fog]] [[nausea]] [[herbal-remedies]]
+
+Okay. We got a call that came in. Apparently the caller wanted to ask a question off the air. So before we go to this next question, the lines are open 707-923-3911 is the number to call.
+
+**Engineer**: So okay. What was the question that was being asked? So the caller wanted to know if you could talk about some good things for menopause such as, she's having brain fog and nausea.
+
+**Sarah Johanneson Murray**: Well, ginger is always great for nausea.
+
+**Andrew Murray**: Brain fog. Okay. So good nootropics. I don't know how supportive you are of nootropics outside of using anti stress substances like pregnenolone for decreasing cortisol and for decreasing inflammation. But what would your response to that be?
+
+**Raymond Peat**: Oh, yeah. All of those things, coffee, for example, aspirin, things that promote, mitochondrial oxidative use.
+
+**Andrew Murray**: Okay. Sugar. And herbal support would be Vitex, Chase Treeberry and Black Cohosh. Those are very effective at helping mitigate the menopausal symptoms.
+
+## Fresh Milk vs Dehydrated Formula
+tags: [[fresh-milk]] [[cow-milk]] [[formula-alternatives]] [[synthetic-breast-milk]]
+
+Okay. So, let's go on to the next question. I don't know if you've finished the milk.
+
+**Sarah Johanneson Murray**: Yeah. Doctor, I wanted to ask a question about the milk. So all baby formula is dehydrated milk or dehydrated. Let's just say it's all dehydrated. So when you say make a formula out of milk, would you suggest adding anything to cow milk? Fresh cow milk?
+
+**Raymond Peat**: Yeah. You can adjust the amount of of fat and water if if it makes it more palatable to the baby, But, just as is, it'll work.
+
+**Sarah Johanneson Murray**: And so what about this, talk in the news of a synthetic breast milk? What do you think of that? Oh, it definitely works. Do you think that would be preferable to cow's milk for babies?
+
+**Raymond Peat**: Or Oh, oh, sure. Yeah. That's The human well, assuming that the mother is eating properly because the human milk reflects the human diet because we don't have a rumen. The cow can eat grass and weeds and quite a lot of polyunsaturated fats and detoxifies them in the rumen. So as a rule, you can say that if the woman is eating well, then her milk is gonna be better than cow's milk.
+
+**Sarah Johanneson Murray**: Right. But so what the question I was asking is, of course, we all know that mama's milk, breast milk is preferable for a baby or the best, but, with a healthy diet. But I've read about the making breast milk in a laboratory, trying to synthesize breast milk in a lab. I was wondering what your thoughts were on that.
+
+**Raymond Peat**: Well Probably not good. Might have a certain similarities to breast milk, but It's definitely going to be a synthetic material.
+
+**Sarah Johanneson Murray**: Chemical.
+
+## Artificial Meat and Separation from Natural World
+tags: [[artificial-meat]] [[soy-protein]] [[natural-food]] [[buyer-beware]]
+
+**Andrew Murray**: What about the subject of artificial meat? And again, between milk and meat and canceling out substances like sugar, they must say they, who are they, but the industry and whoever's behind the industry is seeking, I think, to separate people from their natural world. And I'm not saying, oh, everyone needs to drink milk. But I am saying that milk is an extremely good food. And I think there's so much evidence to support its use that the whole demonization of it is really the same kind of skewing the information that you're getting that you've given previous examples of in research.
+
+You've mentioned recently about protein intake for older people necessarily needing to be decreased and that's not a bad thing. So what about that in terms of the amount of you've never been big on muscle meat per se. You've always encouraged people to use the whole animal getting the gelatin from making a broth, for example, chicken or knuckle bones or you know, lamb shank?
+
+**Raymond Peat**: Yeah, yeah. For many years people have been aware that with aging, the metabolic rate slows down. And, Brode Barnes was thinking about that and the importance of the metabolic rate. And he had been using a supplement of, I think, two grains of armored thyroid, and he decided to go on a high protein diet when he was around 60, I think, and found that he had to double his dose of thyroid hormone, to to maintain his functioning, showing that the, for for an older person, what seems to be a good level of protein can can actually be very powerfully suppressive to your thyroid function.
+
+**Andrew Murray**: Okay. So we've talked about things like soy protein in the past being used as a meat alternative. We know that's definitely not a beneficial substance in terms of it raising estrogen in men and women and being relatively inflammatory in its own right. So I think and it's just part and parcel of our human human nature. And I think this really, for me, it's kind of speaking to the buyer beware mentality that I think everyone needs to try and hang on to and remember because I think, you know, it's just like social media and technology. We're kind of cajoled and lured into this kind of seemingly fuzzy world of comfortable technology. And we're really just sucking down so much poison that I think it's like being on drugs that are completely separating you from reality in terms of what's actually going on around you that you don't say anything and you're just cajoled and fuzzily, oh, it's okay if the government knows what they're doing. This COVID vaccine's a good thing. It saves lives. What are you talking about? You're the crazy one.
+
+I'll bring that subject back out in a moment here, but we do have another caller on the air. So, let's take this next caller. The caller, where are you from? What's your question?
+
+## Caller on Seed Control and Food Sovereignty
+tags: [[caller-question]] [[seed-saving]] [[food-sovereignty]] [[genetic-control]]
+
+**Caller**: I'm from the Arcadia area. I just wanted to make a comment kind of looking at the general trend of things in this country where, you know, big corporations are wanna control everything, or at least the bulk of the economy. So it had to do with, seeds, basically. You guys were talking about food and growing organic vegetables and stuff like that, and I I was surprised talking to one of the vendors at the farmer's market, that she had to buy seeds. I don't know if it's some kind of licensed type of thing, but, just looking at the trend of how things are evolving, I would expect that over time, you know, the seed supply is going to be controlled by completely controlled or mostly controlled by big companies and it would behoove people to learn how to make their own seed, you know, grow their own seed, save seed and try to keep it from being contaminated with, I'm sure, genes that are gonna be inserted to either, you know, naked so you could only grow seed and it won't reproduce or what have you. So I guess that was my comment just moving forward. That's a good thing for people to try to explore.
+
+**Sarah Johanneson Murray**: Thank you for your show. Yes, you're welcome. Thank you for your call.
+
+## Importance of Local Gardens and Resistance to Technocracy
+tags: [[local-gardens]] [[food-sovereignty]] [[urbanization]] [[resistance]]
+
+**Andrew Murray**: Okay, yes. And then I want to just kind of round follow-up that caller with this really applies to people that are fortunate enough to have a garden. I'm not talking about acres of land, but I'm just talking about people that have a small garden to grow vegetables in because obviously, you know, and we've all known it, and it's happened in China, quite successfully, where millions and millions upon hundreds of millions of people were pulled out of rural agrarian locations and brought to the cities.
+
+It's all about the cities and it's all about the mass media control they have over populations when you're in the cities and under their domain and you don't have a garden and you don't have a connection to the natural world. That's when all of this is breaking down. That's, I think, very, very similar to, you know, some of the kind of biblical references to that very same subject and like the Tower Of Babel and how all of this was just a massive confusion. And, you know, God made it impossible for them to understand each other. And that was because they just wanted to get on with it without God. And they didn't feel they needed any kind of natural creation they could do without do without all of that.
+
+And I think, unfortunately, it's a kind of side effect of our humanism that, you know, we don't, you know, we're kind of numbed. And I think so many people, unfortunately, are just sucking it down, you know. And, yeah, I find it hard to find it hard to believe in some ways that they're pulling it off. But I think what's happening really is a concerted and orchestrated attempt. And we're not even attempt. I think they're doing it. It's an orchestrated play, and we're going through the motions. But I'd never give up. And I would encourage everybody listening never to give up. They're never as far as I'm concerned, they're never gonna win. You just have to keep resisting and keep resisting for the very end because the end is not the end.
+
+Okay?
+
+## Hope for the Future and Cosmic Redemption
+tags: [[hope]] [[cosmic-bailout]] [[justice]] [[resistance]]
+
+So, yeah, Doctor Peat, again, like you've been around quite a while now and you've seen governments come and go and heads of state come and go and you've seen lots of headlines and politics etcetera. I don't know, I'll just ask you in these last few closing moments about your impression. Yes, is there any hope? Of the world. What do you think about it? I mean, I know we're still alive and we're still trying to do the right thing, but, where are you with all of this?
+
+**Raymond Peat**: I'm still hopeful. Like Reiner Fjolmisch said, we have to do everything legal and impossible to try to prosecute these people. But at some point, he's going to count on some kind of a cosmic bailout for us.
+
+**Sarah Johanneson Murray**: Wait. Wait. Reiner is counting on a cosmic bailout?
+
+**Raymond Peat**: Yeah. I forgot his exact phrase, but Interesting. He said he couldn't explain it rationally, but he had this confidence that the universe wasn't going to let that turn out the way the World Economic Federation hopes. Or the IMF.
+
+**Andrew Murray**: Okay. Well Well, that's hopeful. There's hope then. Yeah. Well, good. I appreciate your time, joining us on the show. And, only sad that we didn't have more callers, but I can only hope that people It's a busy weekend. People have rodeo and the summer arts fair and That's local. I can only hope that people are listening Oysterfest. Listening and not calling in. But like I always say, the archive is there for people to listen to in the future and the future will vindicate what you've said for a long time.
+
+So thanks so much again Doctor Peat for joining us. Okay. Thank you. Thank you and good night. Bye.
+
+Okay. So I just wanted to kind of finish off with saying that this connection is undoubtable between technocracy and dehumanization through lockdowns and social isolation. So with government coercive measures and Soviet era style social control where individuals are set against individuals similar also to the brown shirts of Nazi Germany, the Orwellian reality we are now in, and which, unless it's resisted, will become de facto the new normal, and must be resisted vehemently through peaceful protests and political involvement on the state and local level needs to occur. And it's the reason we need another Hague in charges of international war crimes against humanity where the guilty are charged and why Reiner Formik's group in Germany is at this very moment pressing these charges.
+
+So the thing is ongoing. I like to think that there is a real justice and that we're not just going to be sucked into the matrix. We're not going to have any way through it.
+
+## Final Caller and Closing Remarks
+tags: [[closing]] [[raypeat-resources]] [[final-thoughts]]
+
+So do you say there's someone else who wanted to ask a question? Well, I think Doctor Peat is probably hung up by now anyway. Hello? Yeah, go ahead. We've got three minutes as well till the top of the hour. Okay, a couple of things. One is the, I don't even think we've got time. We've got three minutes. It's not gonna happen. I'm so sorry. Okay. We better call this it because I will run over and So basically, I want to know okay. They say that an ounce of prevention is worth a pound of cure and you seem to think that getting some kind of treatment is better than getting a vaccine to prevent the COVID. And, you know, I I would rather not get it than have to, you know, get it and be treated for it. But so I'd like to an answer to that question and also basically why do you think that the vaccine is worse for you than the COVID itself?
+
+**Andrew Murray**: The information is out there for anybody who wants to search for it. So it's not something you're gonna see on your Facebook group or on your YouTube channel. Or Google or the fact checkers that check that work for Google. And it is two minutes at the top of the hour. So I need to give credit to Doctor Peat and his website and his information. So I appreciate your call, but don't have time to answer it. I'm sorry.
+
+So, okay. For those of you who've listened to the show, they run every third Friday of the month from seven to 8PM. We'll be back in July. We're coming up to the solstice now. So, we run a business called Western Botanical Medicine. And Doctor Raymond Peat, his website is raypeat.com. And he has got plenty of scientific reference articles that are not his opinion, but are pulled from current medical journals or past medical journals, medical research, trials, etcetera, etcetera.
+
+And again, may not be something that you'll find on your Facebook group, or if you just Google it, up until this point, you're probably not going to find it and some of it's going to be censored. And we're probably moving into a more censored environment as we go on folks. So people just watch out, you know.
+
+Anyway, without being alarmist about it, my name is Andrew Murray and we'll talk to you again in July. My name is Sarah Johanneson Murray. Thank you for listening.
+
+## Table of Contents
+
+Line 11 - [[#Station Introduction|Station Introduction]]
+Line 16 - [[#Welcome and Show Overview|Welcome and Show Overview]]
+Line 26 - [[#Recap and Context from Previous Shows|Recap and Context from Previous Shows]]
+Line 42 - [[#Insurance Company Mortality Data|Insurance Company Mortality Data]]
+Line 61 - [[#Understanding the Data and Insurance Company Accuracy|Understanding the Data and Insurance Company Accuracy]]
+Line 66 - [[#Mortality Analysis and Disability Claims|Mortality Analysis and Disability Claims]]
+Line 73 - [[#Omicron Variant Analysis|Omicron Variant Analysis]]
+Line 88 - [[#Call-In Information|Call-In Information]]
+Line 93 - [[#Ukraine Agricultural Land and Corporate Takeover|Ukraine Agricultural Land and Corporate Takeover]]
+Line 108 - [[#IMF Loans, Ukraine Coup, and Zelensky Government|IMF Loans, Ukraine Coup, and Zelensky Government]]
+Line 113 - [[#Russia's Organic Farming Goals vs Western GMO Promotion|Russia's Organic Farming Goals vs Western GMO Promotion]]
+Line 126 - [[#Fertilizer Shortage and Supply Chain Control|Fertilizer Shortage and Supply Chain Control]]
+Line 141 - [[#Information Control, Censorship, and Free Speech|Information Control, Censorship, and Free Speech]]
+Line 154 - [[#Baby Formula Crisis and Soy Formula Dangers|Baby Formula Crisis and Soy Formula Dangers]]
+Line 173 - [[#Off-Air Caller on Menopause|Off-Air Caller on Menopause]]
+Line 188 - [[#Fresh Milk vs Dehydrated Formula|Fresh Milk vs Dehydrated Formula]]
+Line 207 - [[#Artificial Meat and Separation from Natural World|Artificial Meat and Separation from Natural World]]
+Line 220 - [[#Caller on Seed Control and Food Sovereignty|Caller on Seed Control and Food Sovereignty]]
+Line 227 - [[#Importance of Local Gardens and Resistance to Technocracy|Importance of Local Gardens and Resistance to Technocracy]]
+Line 238 - [[#Hope for the Future and Cosmic Redemption|Hope for the Future and Cosmic Redemption]]
+Line 257 - [[#Final Caller and Closing Remarks|Final Caller and Closing Remarks]]
