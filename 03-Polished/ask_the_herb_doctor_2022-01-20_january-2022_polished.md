@@ -133,3 +133,61 @@ The mechanism of glucose protection operates differently than initially assumed.
 Calcium is the excitatory molecule cells must normally exclude. When cells retain excessive calcium, they enter excited, inflamed, energy-wasting states. Additional glucose allows cells to extrude more calcium through its continued metabolism. The mechanism appears to involve glucose promoting increased carbon dioxide formation during metabolism. Carbon dioxide forms carbonic acid, which leaves the cell carrying the counter-ion of doubly-charged calcium along with sodium. This glucose carbonic acid efflux manages the calcium accumulation—the basic cause of inflammation, pain, and cell death.
 
 [[curcumin]] [[turmeric]] [[flavonoids]] [[coffee]] [[neuroprotection]] [[calcium regulation]] [[glucose mechanism]]
+
+---
+
+## Caller Questions
+
+### Understanding Inflammation and Aging
+
+**Caller (Avenue of the Giants):** Can you explain what inflammation means? Is it inflammation of the cells, inflammation around muscle tissue, or something related to arthritis and age-related aches and pains?
+
+**Dr. Peat:** People recently discuss "inflammaging" as if it explains something. Aging obviously involves increased inflammation in every sense. However, the key is understanding basic events in cell structure. Pain, excitation, inflammation, and aging all involve cytotoxic cell damage and inability to remedy the problem through adequate energy production or delivery.
+
+Heme oxygenation, an emergency enzyme producing carbon monoxide, has been described in 95% of publications as a protective antioxidant. Yet deteriorated aged brains contain more carbon monoxide than any previous life stage—carbon monoxide presence represents a degenerative aspect of inflammation and cell deterioration.
+
+If carbon monoxide formation is blocked (as with traumatic head or spinal cord wounds), most damage, edema development, and cell death are prevented. The chemistry of aging, inflammation, and deterioration expresses the same concept as excitotoxicity and wasteful energy processes.
+
+[[inflammation]] [[inflammaging]] [[carbon monoxide]] [[heme oxygenase]] [[aging]] [[cell damage]]
+
+---
+
+### Healing Time and Estrogen Reduction
+
+**Caller (South Central Los Angeles):** How long does the body take to heal from damage if you reduce estrogen, polyunsaturated fat, and inflammatory substances? Is there an age difference, or is healing time the same for everyone?
+
+**Dr. Peat:** Younger people with higher metabolic rates change everything more quickly. The average person transitioning from a high polyunsaturated fat diet to a low one requires approximately four years to equilibrate to the new balance.
+
+However, extreme effort can produce dramatic results. One early polyunsaturated fat researcher demonstrated a case where a subject consuming a laboratory-purified diet lacking polyunsaturated fats would develop illness. Instead, after three to four months, all chronic health problems—chronic migraines and other symptoms—disappeared and remained away. His lifelong problems resolved in just a few months through extreme avoidance of one harmful nutrient.
+
+**Caller Follow-up:** Would similar benefits apply to reducing estrogen? My wife suffers from fibroids and has had miscarriages caused by them.
+
+**Dr. Peat:** With the right approach, dramatic reversals are possible. A friend, age 40 and wanting pregnancy, had imaging showing a tennis ball-sized fibroid blocking her uterus's end, preventing ovum delivery through the tubes. She took thyroid hormone supplementation. Monthly, despite the doctor warning she'd die from excess thyroid, imaging showed the fibroid shrinking. By approximately the fifth month, it had become about one-fourth its original size, and she became pregnant.
+
+**Sarah Johanneson Murray:** Thyroid hormone therapy lowered her estrogen and improved liver function in just five months.
+
+**Dr. Peat:** Numerous dietary components exist out of balance: excess iron, methionine, aspartate, glutamate, and cysteine. Fixing any single component produces drastic effects. Correcting half a dozen imbalanced components should produce very substantial effects quickly.
+
+[[healing time]] [[metabolic rate]] [[polyunsaturated fats]] [[fibroids]] [[thyroid hormone]] [[estrogen reduction]]
+
+---
+
+### Pediatric Intestinal Bleeding and GI Health
+
+**Caller (Arcata):** My young grandson has experienced two episodes of severe intestinal bleeding requiring pediatric hospitalization. Despite upper and lower GI scopes finding nothing, doctors suspect a Meckel's lesion in the small intestine. Can you recommend foods soothing to the GI tract or nutritionally beneficial?
+
+**Dr. Peat:** First, absolutely avoid foods containing added gums, especially carrageenan. A very high percentage of current foods contain vegetable gums, microbial gums, or carrageenan—all highly pro-inflammatory. Simply eliminating these foods can stop chronic bowel bleeding.
+
+**Andrew Mai:** In herbal medicine, particularly in Germany and Europe where I studied, chamomile was the number-one GI anti-inflammatory. It has pronounced inflammation-blocking effects and GI soothing properties—chamomile is the "mother of the gut," the "nurse of the gut." That would be my first herbal choice, depending on bleeding type. Gentle tannins would also be indicated to gently astringe capillaries and tissues leaking blood into the small or large intestine lumen.
+
+**Sarah Johanneson Murray:** Can black or green tea provide these tannin benefits?
+
+**Andrew Mai:** Absolutely—black tea is completely indicated, as are many other tannin-containing herbs like potentilla.
+
+**Dr. Peat:** It's very important to check thyroid and vitamin D levels because deficiency in either can make the intestine hypersensitive to inflammation.
+
+**Andrew Mai:** Hemoglobin should be checked, as long-term chronic bleeding likely causes anemia—a negative factor for energy levels. Provide foods naturally containing iron rather than iron supplements. Iron is highly reactive and inflammatory. Prioritize iron-rich foods like liver.
+
+**Dr. Peat:** Avoid synthetic vitamin C—it reacts with body iron traces to produce inflammation.
+
+[[pediatric bleeding]] [[Meckel's lesion]] [[carrageenan]] [[chamomile]] [[tannins]] [[GI inflammation]] [[thyroid]] [[vitamin D]] [[iron]] [[synthetic vitamin C]]
