@@ -79,3 +79,60 @@ A second way investors could circumvent the land moratorium was by buying shares
 **Andrew Murray:** So I was going to ask you, Doctor Pete, you had lots of other information to tie this together.
 
 **Dr. Raymond Peat:** Everyone has heard about the International Monetary Fund offering Ukraine a $40 billion loan if they would stop the moratorium—specifically so Monsanto and the other giant corporations could concentrate ownership on a big corporate scale. There was a coup to make that happen because the elected president had rejected the IMF fund. The IMF, working with the World Bank and all the other so-called Western authorities, wanted to reverse that, stop the moratorium, so they supported the coup. The coup was very clear they were going to adapt laws that would let Monsanto take over. When the coup happened, that did take place. So they had to get rid of the legally elected president and establish the Zelensky government supporting the Monsanto privatization system.
+
+Well, part of the Monsanto thing is that they want to use chemicals like Roundup to make the profitability of certain giant land corporations favorable to them. The European Union had opposed the United States policy of supporting Monsanto and genetic modification. So there was a conflict between Western Europe, who had quite a lot of resistance. Several Western European countries went along with wanting to outlaw GMOs. That was creating stresses between Western Europe and anti-GMO people.
+
+It turned out that historically Russia had been passing laws to promote organic farming and to outlaw GMOs. So they were aiming for 100% freedom from GMOs and naturally from Monsanto. That really was the polarization for the coup, for the International Monetary Fund loan. When the elected president made a deal with Russia for a loan that would bypass the IMF, that was the actual moment when the coup took place and they cut him out of Ukraine.
+
+**Andrew Murray:** I read a couple of years ago that Vladimir Putin was boasting he was gonna make Russia one of the, if not the biggest, organic food producer in the world. Yeah, that's one of his goals. But I thought GMOs are still banned in Europe. Well, I think they are in England. I'm pretty sure England has banned GMOs. Is that what you're understanding, Doctor Pete?
+
+**Dr. Raymond Peat:** They are wobbling on the issue. There is still opposition to it, but now the war for Monsanto has affected the West, and they aren't pushing so hard to oppose GMOs.
+
+## Fertilizer Shortage & Supply Chain Control
+tags: [[fertilizer]] [[supply-chain]] [[union-pacific]] [[black-rock]] [[food-economy]]
+
+**Andrew Murray:** I wonder how the whole fertilizer shortage plays into it. Apparently Ukraine is a big exporter or manufacturer of fertilizer. I wonder how that plays into it along with the agricultural diversity possible in Ukraine and how this quote-unquote food shortage they're now talking about connects. Before we get into the subject of baby milk, I wonder how politically motivated this is. In terms of polling?
+
+**Dr. Raymond Peat:** Oh, you can see many specific things in which it's been just openly promoted. For example, Union Pacific Railroad announced that they just weren't going to ship all of the fertilizer that the farmers needed. That preceded by several weeks the announcement that they were not going to allow the shipment and sale of urea, which is used in the diesel motors of trucks. By restricting the availability of this urea fuel modifier, they can turn off truck delivery. But as a railroad, they said they're not gonna ship all of the fertilizer that's ordered.
+
+**Sarah Johanneson Murray:** And why did they say that?
+
+**Dr. Raymond Peat:** No one knows, but it seems they are controlled by Black Rock, the giant funds. And that is also just openly intending to turn off the food economy.
+
+**Sarah Johanneson Murray:** So they want to create a shortage for some monetary gain?
+
+**Dr. Raymond Peat:** Oh, yeah. If you look at the pattern over the last several years, just weeks before the pandemic, Cloud Swab was saying, "Well, we've done our best to use carbon dioxide and climate change, mistaken science, to fulfill our purpose of controlling overall production. But now luckily, we've got something much, much better that in just a period of two or three years, we'll be able to turn off the national and world production of everything—the ordinary daily economy, including food and all of the necessary supply."
+
+## Censorship, Information Control & Free Speech
+tags: [[censorship]] [[information-control]] [[free-speech]] [[propaganda]]
+
+**Andrew Murray:** I mean, you can't make this stuff up. This reminds me of the whole discourse I first heard with Rima Labo back in 02/2006, I think it was, about Codex Alimentarius. The entire thing is essentially a playbook from the end of the war or just before, really, with the emergence of technocracy through to global governments and one world currency. It's all been documented. The way she was talking back in 02/2006, it blew me away. I couldn't believe what I was hearing. I just wanted to know: is this totally fantastic fantasy or is this real? And the more you look at it, the more connections you see.
+
+When we get things like the war in Ukraine and hear that Russia is deciding on the side of organic production, and it was part of former Russia, what really is the problem? Obviously there's a problem with people dying. Don't get me wrong—I don't condone any war. But the reasons by which this happened are serious government evil, prospects and control and manipulation of the populations of various countries to produce the narrative they want. That's exactly what social media has sought to bring about since it all came out for Facebook and YouTube and all of the glorious technology of social media. Back in 2009 or so, when iPhones were becoming really popular and the software to do this was connecting all these people like never before.
+
+It might sound a little scary to people just listening, but there's a lot more in it. Unfortunately, I don't think there's a huge amount we can do about it except peacefully protest. I think that's the saddest part of what I've witnessed going through these last two years. There's such polarization, such control of information that people are not getting the full information. I just heard today that Simone Gold, one of the doctors in LA with the American Frontline Doctors, who was organizing patient consultations and alternatives to COVID treatments that were experimental drugs, she's just been in prison for two months. This was all part and parcel of her 2020 appearance at the State Capitol and her peaceful protest, basically saying she objected to what was going on.
+
+The whole thing about free speech is: if we're not careful folks, it's gone. Getting ratted out by your neighbor and Soviet-style era of people watching people and policing each other—it's kind of a scary reality which I think has crept in so pervasively with this COVID quote-unquote pandemic. Most people are looking, I'm not quite sure where they're getting their information from that counters this narrative we hear about everywhere. I mean, to find an alternative view on the COVID scenario is kind of the exception.
+
+## Baby Formula Crisis: Dangers of Soy & PUFA
+tags: [[baby-formula]] [[soy-formula]] [[pufa]] [[dehydrated-milk]] [[nutrition]]
+
+Getting to the milk crisis—the baby milk crisis. I wonder what your opinion is because I know you've definitely got lots to say about soy and PUFA and all of these things. From a perspective of making money from a corporate perspective, from the perspective of mothers in Africa—and I'm not saying that women who have children that don't produce enough milk shouldn't be helped, of course not. But there are other alternatives to formula. What do you think about this baby formula crisis? It may be not a bad thing.
+
+**Dr. Raymond Peat:** The soy formula had its own terrible side effects in immature animals. The estrogenic factors associated with the proteins used in making the male substitute cause deformed genitals in the developing young and later promote tumors of various sorts. So the plant-based milk formulas were a terrible problem in themselves.
+
+Nestle's innovation was basically selling dehydrated cow milk as a basis for people around the world to mix up at home to produce a liquid milk substitute, despite the fact that clean water to mix it with is absent in so many of the poor countries. So they were doing something very counter-social and counter-interest.
+
+But even in the US, where people couldn't make a formula themselves if they really couldn't produce milk, they could simply make a formula based on cow milk. When it isn't dehydrated, the reaction on the immune system is less harmful. To take nonhuman milk and introduce it right at the very beginning will cause some antigenic differences, but at least if it's made from fresh cow milk, that's a lot safer than dehydrating because every time you dehydrate a living substance, you kill it and oxidize some of the proteins, amino acids, and especially the fatty acids. The cholesterol is oxidized.
+
+That's really only one of the fairly trivial problems of dehydrated milk. The cholesterol is damaged and made toxic, but many, many other components of the milk are susceptible to oxidative damage. There's a whole anti-science that has grown up to defend the industry's use, not only of dehydrated milk, but of the added polyunsaturated fatty acids (PUFA), which is really a separate issue.
+
+They argue that human milk contained more PUFA than cow milk. So that became a separate industry to say that the baby must be given a supplement of omega-3 fatty acids because, they say, almost all babies at birth have evidence of a deficiency of omega-3.
+
+**Sarah Johanneson Murray:** And that's because the placenta has filtered it out.
+
+**Dr. Raymond Peat:** Yeah, exactly. It is recognized as something to be excluded during pregnancy. But they reverse that and say you need to supplement everyone because everyone is deficient.
+
+**Sarah Johanneson Murray:** Because the body naturally tries to keep it away from the baby. You're deficient. That rationale is insane.
+
+**Dr. Raymond Peat:** And they extend that to say that the aged brain contains increased amounts of omega-3 PUFA. So they're wanting to say that because you find it in the old brain, that means it should be there. But meanwhile, the old brain has deteriorated in proportion to the reduction of mitochondrial energy production, and that reduction corresponds to the increased presence of omega-3 PUFA in the brain. So at every point, they've twisted the science. One of the ways they twist it is with a certain test of retinal responsiveness to electrical stimulation. They say if you increase that with your added PUFA, you're going to show that addition makes the eye develop faster and the brain develop its mental ability sooner.
