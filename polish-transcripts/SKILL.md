@@ -77,8 +77,8 @@ title: "[Descriptive Topic] - [Show Name] [Date]"
 show_name: "[Exact show name]"
 date: "YYYY-MM-DD"
 speakers:
-  - "[Full Name]"
-  - "[Full Name]"
+  - "[Full Name - VERIFIED from STEP 1]"
+  - "[Full Name - VERIFIED from STEP 1]"
 ---
 ```
 
